@@ -48,8 +48,12 @@ infornt of me so I used that as a reference.
 
 All the keys are subjected to change
 
+![The Sketch](https://github.com/user-attachments/assets/7b7fcae7-e550-4776-bfb6-9f0d3a681aae)
+
 Here's a picture of what it should look like (again not the final thing. Only
 the structure)
+
+![ErgoGen Pic](https://github.com/user-attachments/assets/f2cc9ce3-7cc7-4035-8c04-bc88f928625a)
 
 **Total Time Taken: 5hrs**
 
