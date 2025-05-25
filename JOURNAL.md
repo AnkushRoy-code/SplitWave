@@ -5,7 +5,7 @@ description: "A Split Ergonomic Keyboard"
 created_at: "2025-05-25"
 ---
 
-# Total Time: 3Hrs
+# Total Time: 5Hrs
 
 ## 25th May 2025 - Research
 
@@ -34,4 +34,23 @@ ErgoGen ig)
 
 The rough BOM: https://github.com/AnkushRoy-code/SplitWave/blob/main/StuffNeeded.md
 
-**Total Time Taken: 3hrs**
+#### Rough Sketch
+10:00PM I drew a rough sketch of how it should look like... the alignment and
+staggerdness is not what I want. It is just a place holder also it will be
+Colemak_mod_dh layout instead of qwerty. I just had a keyboard with qwerty keys
+infornt of me so I used that as a reference.
+
+| Color          | Layer           |
+| -------------- | --------------- |
+| Red            | Default         |
+| Green          | Number          |
+| Black          | Function        |
+
+All the keys are subjected to change
+
+Here's a picture of what it should look like (again not the final thing. Only
+the structure)
+
+**Total Time Taken: 5hrs**
+
+The sketch took ~2hrs, took a lot of planning!
