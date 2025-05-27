@@ -5,7 +5,7 @@ description: "A Split Ergonomic Keyboard"
 created_at: "2025-05-25"
 ---
 
-# Total Time: 5Hrs
+# Total Time: 12Hrs
 
 ## 25th May 2025 - Research
 
@@ -64,3 +64,58 @@ Here's a picture of what it should look like (again not the final thing. Only th
 **Total Time Taken: 5hrs**
 
 The sketch took ~2hrs, took a lot of planning!
+
+## 26th May 2025 - More Research On ErgoGen
+
+**Evening**
+Watched [this](https://www.youtube.com/watch?v=5tERUZ_BSPM) 20min video by the creator of Ergogen.
+Read the entire [docs](https://docs.ergogen.xyz/) of Ergogen.
+I will not bore anyone with the things I learnt here. Also there was a lot to
+digest so I might've forgotten a lot of stuff by the end...😢
+
+**Night**
+Another [tutorial](https://flatfootfox.com/ergogen-part1-units-points/) mentioned in the docs seemed really helpful to me. During my
+journey I'll I will use it too!
+
+**Total Time Taken: 2hrs**
+
+*Total Time Till Now: 7hrs*
+
+## 27th May 2025 - Getting the Keyboard to life
+
+Sat down and wrote the config for my keyboard, it is taking shape now. But
+there is a lot that I have to change and tiker.
+
+Took longer than I thought, the flatfootfox tutorial is very good! I learnt the
+same things better I'd say. I decided to let go of the 5th key in the thumb
+cluster. I only have 4 keys now. I am done with the structure that I seem fit
+for my usecase.
+
+Up until now it approx took **1.5hrs** in total.
+
+Now I am done with the outline too! Took **1hrs** at the very least.
+
+The config.yaml can be found [here](https://github.com/AnkushRoy-code/SplitWave/blob/main/ergogen/config.yaml).
+
+Did even more study on mcu(s) to use. Asked some pros in ergogen discord and
+they answered immideatly.
+The things I am considering now:
+
+    - Not nice!nano anymore $25
+    - Seeed XIAO nRF52840 $10.5
+    - SuperMini nRF52840 $9.5
+
+I have read about a lot on the mcus I decided that I will be using Seeed XIAO
+because of the pros suggestion and SuperMini being russian roullete. That is a
+saving of a whooping $25!!
+
+The only problem is that I there's not much resources as n!n in the web. But I
+will make it work out!
+
+Apart from that I also read the ZMK docs, the Seeed XIAO nRF52840 docs and the
+next day my target will be completing the research of the mcu and be done with
+the pcb
+
+**Total Time Taken: 5hrs**
+
+*Total Time Till Now: 12hrs*
