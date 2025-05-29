@@ -18,6 +18,8 @@ points:
       key:
         padding: 1ky + 0.75
         spread: 1kx + 0.75
+      anchor:
+        shift: [100, -100]
       columns:
         # left to right
         outer:
@@ -157,3 +159,57 @@ outlines:
           shift: [px / 2, -py / 2]
         - ref: mirror_matrix_outer_bottom
           shift: [-px / 2, -py / 2]
+
+pcbs:
+  left:
+    outlines:
+      main:
+        outline: board_left
+    footprints:
+      choc_hotswap:
+        what: choc
+        where: /^matrix_.*|^thumbs_.*/
+        params:
+          keycaps: true
+          reverse: false
+          hotswap: true
+          from: "{{column_net}}"
+          to: "{{colrow}}"
+      diode_main:
+        what: diode
+        where: /^matrix_.*|^thumbs_.*/
+        params:
+          from: "{{colrow}}"
+          to: "{{row_net}}"
+        adjust:
+          shift: [0, -5]
+      seeed_xiao:
+        what: seeed_xiao
+        where:
+          ref: matrix_inner_top
+          shift: [20, 20]
+          rotate: 0
+      reset:
+        what: button
+  right:
+    outlines:
+      main:
+        outline: board_right
+    footprints:
+      choc_hotswap:
+        what: choc
+        where: /^mirror_matrix_.*|^mirror_thumbs_.*/
+        params:
+          keycaps: true
+          reverse: false
+          hotswap: true
+          from: "{{column_net}}"
+          to: "{{colrow}}"
+      diode_main:
+        what: diode
+        where: /^mirror_.*/
+        params:
+          from: "{{colrow}}"
+          to: "{{row_net}}"
+        adjust:
+          shift: [0, -5]

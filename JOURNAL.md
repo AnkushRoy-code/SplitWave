@@ -5,7 +5,7 @@ description: "A Split Ergonomic Keyboard"
 created_at: "2025-05-25"
 ---
 
-# Total Time: 12Hrs
+# Total Time: 15Hrs
 
 ## 25th May 2025 - Research
 
@@ -123,3 +123,37 @@ the pcb
 **Total Time Taken: 5hrs**
 
 *Total Time Till Now: 12hrs*
+
+## 28th May 2025 
+
+Searched other Indian stores a lot, a frind suggested me this reddit [wiki](www.reddit.com/r/mkindia/wiki/vendors/)
+that had good Indian vendors. I found NeoMarco to be my choice of vendor. Had
+all the stuff I needed, all of them cheaper than typeractive, has free
+shipping, is trusted too!
+
+But I had some compatibility confusions so I dropped them an email. I hope they answer soon.
+
+And the downsides now. I planned to have 3 things from typeractive
+1. Switches
+2. Keycaps
+3. Hot Swap
+and all these 3 had great quality and were to my liking. But in NeoMarco the problems are:
+
+1. Switches: Only Yellow is in stock. I wanted Red (The colours matter for
+   typing experience if you didn't know. Each colour has different feel to them). But I am ready to compromise
+2. Keycaps: Only Transparent is available. I don't mind it that much. I think trans is cool!
+3. Hot Swap: Looks weird. Had compatibility doubts so I dropped an email.
+
+Overall I think all the stores are great. Just that they can't do everything
+for everyone. typeractive would've been my go-to if I were in the west.
+
+*This took like a little more than an hour*
+
+Spent a lot of time searching for batteries. Took a long time but finally found
+it! In quartzcomponents' website.
+
+**Total Time Taken: 3hrs**
+
+*Total Time Till Now: 15hrs*
+
+
