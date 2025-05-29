@@ -134,15 +134,19 @@ shipping, is trusted too!
 But I had some compatibility confusions so I dropped them an email. I hope they answer soon.
 
 And the downsides now. I planned to have 3 things from typeractive
-1. Switches
-2. Keycaps
-3. Hot Swap
-and all these 3 had great quality and were to my liking. But in NeoMarco the problems are:
+- Switches
+- Keycaps
+- Hot Swap
 
-1. Switches: Only Yellow is in stock. I wanted Red (The colours matter for
-   typing experience if you didn't know. Each colour has different feel to them). But I am ready to compromise
-2. Keycaps: Only Transparent is available. I don't mind it that much. I think trans is cool!
-3. Hot Swap: Looks weird. Had compatibility doubts so I dropped an email.
+and all these 3 had great quality and were to my liking. But in NeoMarco the
+problems are:
+
+- Switches: Only Yellow is in stock. I wanted Red (The colours matter for
+typing experience if you didn't know. Each colour has different feel to them).
+But I am ready to compromise
+- Keycaps: Only Transparent is available. I don't mind it that much. I think
+trans is cool!
+- Hot Swap: Looks weird. Had compatibility doubts so I dropped an email.
 
 Overall I think all the stores are great. Just that they can't do everything
 for everyone. typeractive would've been my go-to if I were in the west.
@@ -151,6 +155,8 @@ for everyone. typeractive would've been my go-to if I were in the west.
 
 Spent a lot of time searching for batteries. Took a long time but finally found
 it! In quartzcomponents' website.
+
+Also I am half done with my pcb!
 
 **Total Time Taken: 3hrs**
 
