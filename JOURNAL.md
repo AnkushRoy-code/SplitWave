@@ -5,7 +5,7 @@ description: "A Split Ergonomic Keyboard"
 created_at: "2025-05-25"
 ---
 
-# Total Time: 15Hrs
+# Total Time: 20Hrs
 
 ## 25th May 2025 - Research
 
@@ -124,7 +124,7 @@ the pcb
 
 *Total Time Till Now: 12hrs*
 
-## 28th May 2025 
+## 28th May 2025 - Shopping
 
 Searched other Indian stores a lot, a frind suggested me this reddit [wiki](www.reddit.com/r/mkindia/wiki/vendors/)
 that had good Indian vendors. I found NeoMarco to be my choice of vendor. Had
@@ -162,4 +162,34 @@ Also I am half done with my pcb!
 
 *Total Time Till Now: 15hrs*
 
+## 28th May 2025 
 
+Today my plans are of making the BOM in a csv file with links. Since it's
+getting hard to manage everything rn.
+
+The Bom is done hardly took 30mins.
+
+New problem! QuartzComponents doesn't support hcb 😭😭 I will have to again
+search for batterise.
+
+Found some batteries [here](https://makerbazar.in/products/3-7v-2200mah-li-po-rechargeable-battery) no I idea if it supports hcb but I will have it
+here just for backup.
+
+A very bad news. The footprint I was using for seeed_xiao was for seeed xiao.
+Not seeed xiao plus. But the bigger problem is the battery connection. It is a
+mess in xiao.
+
+Unfortunately because of the battery problem I have to drop XIAO. I will be
+using Nice!Nano.
+
+I am really sad....I have made good progress towards making the pcb, but the
+price is concerning. I have to do something about it. I know it. I will just
+not use Nice!Nano. I will just use the off-brand mcus. Even though they are
+really sketchy. I will have to trust them. Or else I will be wasting a lot of
+money because I was scared of Seeed XIAO, the one I am looking at right now is
+this: [supermini](https://robokits.co.in/iot-wireless-solutions/iot-internet-of-things/iot-esp-module/supermini-nrf52840-pro-micro-bluetooth-le-ble-controller-arduino-compatible) I hope I can make it work. And the mcu is delivered in one
+piece and the vendor supports hcb....
+
+**Total Time Taken: 5hrs**
+
+*Total Time Till Now: 20hrs*

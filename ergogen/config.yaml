@@ -25,11 +25,11 @@ points:
         outer:
         pinky:
         ring:
-          key.stagger: 0.7kx
+          key.stagger: 0.3kx
         middle:
-          key.stagger: 0.5kx
+          key.stagger: 0.3kx
         index:
-          key.stagger: -0.38kx
+          key.stagger: -0.3kx
         inner:
       rows:
         # bottom to top
@@ -162,11 +162,12 @@ outlines:
 
 pcbs:
   left:
+    template: kicad8
     outlines:
       main:
         outline: board_left
     footprints:
-      choc_hotswap:
+      choc:
         what: choc
         where: /^matrix_.*|^thumbs_.*/
         params:
@@ -175,28 +176,60 @@ pcbs:
           hotswap: true
           from: "{{column_net}}"
           to: "{{colrow}}"
-      diode_main:
+        adjust:
+          rotate: 180
+      diode:
         what: diode
-        where: /^matrix_.*|^thumbs_.*/
+        where: /^matrix_(?!(?:outer_top|outer_home|pinky_top|pinky_home|pinky_bottom)).*|^thumbs_.*/
         params:
           from: "{{colrow}}"
           to: "{{row_net}}"
         adjust:
-          shift: [0, -5]
-      seeed_xiao:
-        what: seeed_xiao
+          shift: [0, 5]
+      diode_conflict_mc:
+        what: diode
+        where: /^matrix_(?:outer_top|outer_home|pinky_top|pinky_home|pinky_bottom)/
+        params:
+          from: "{{colrow}}"
+          to: "{{row_net}}"
+        adjust:
+          shift: [7.8, -3.5]
+          rotate: 90
+      nice_nano:
+        what: nice_nano
+        params:
+          side: B
         where:
-          ref: matrix_inner_top
-          shift: [20, 20]
-          rotate: 0
-      reset:
-        what: button
+          ref: matrix_outer_top
+          shift: [10, -4]
+          rotate: 90
+      battery_jack:
+        what: jstph
+        where:
+          ref: matrix_pinky_bottom
+          shift: [0.3kx, 5.5]
+          rotate: -90
+        params:
+            side: B
+            pos: pos
+            neg: GND
+      power_slider:
+        what: slider
+        where:
+            ref: matrix_outer_bottom
+            shift: [-8, 5.0]
+            rotate: 90
+        params:
+            side: B
+            from: pos
+            to: RAW
   right:
+    template: kicad8
     outlines:
       main:
         outline: board_right
     footprints:
-      choc_hotswap:
+      choc:
         what: choc
         where: /^mirror_matrix_.*|^mirror_thumbs_.*/
         params:
@@ -205,11 +238,50 @@ pcbs:
           hotswap: true
           from: "{{column_net}}"
           to: "{{colrow}}"
-      diode_main:
+        adjust:
+          rotate: 180
+      diode:
         what: diode
-        where: /^mirror_.*/
+        where: /^mirror_matrix_(?!(?:outer_top|outer_home|pinky_.*)).*|^mirror_thumbs_.*/
         params:
           from: "{{colrow}}"
           to: "{{row_net}}"
         adjust:
-          shift: [0, -5]
+          shift: [0, 5]
+      diode_conflict_mc:
+        what: diode
+        where: /^mirror_matrix_(?:outer_top|outer_home|pinky_.*)/
+        params:
+          from: "{{colrow}}"
+          to: "{{row_net}}"
+        adjust:
+          shift: [-7.8, -3.5]
+          rotate: 90
+      nice_nano:
+        what: nice_nano
+        params:
+          side: B
+        where:
+          ref: mirror_matrix_outer_top
+          shift: [10, -4]
+          rotate: 90
+      battery_jack:
+        what: jstph
+        where:
+          ref: mirror_matrix_pinky_bottom
+          shift: [0.3kx, 5.5]
+          rotate: -90
+        params:
+            side: B
+            pos: pos
+            neg: GND
+      power_slider:
+        what: slider
+        where:
+            ref: mirror_matrix_outer_bottom
+            shift: [-8, 5.0]
+            rotate: 90
+        params:
+            side: B
+            from: pos
+            to: RAW
