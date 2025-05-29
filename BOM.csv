@@ -1,0 +1,10 @@
+Index,Name,Model,Quantity,Shop,Link,Price,Accumulated Price,Shipping + Tax,Total Price
+1,MicroController,Seeed XIAO Plus,2,seeedstudio,https://www.seeedstudio.com/Seeed-Studio-XIAO-nRF52840-Plus-p-6359.html,$10.40,$20.80,,
+2,Male Headers,7-pin male header for Seeed Studio XIAO (5),1,seeedstudio,https://www.seeedstudio.com/XIAO-Series-7-Pin-Male-Header-5-pcs-p-5460.html,$0.20,$0.20,,
+,,,,,,seeedstudio Total:,$21,$3.74,$24.74
+3,Key Switches,Kailh Choc v1 Switches (Choc Yellow) (10),5,Neo Marco,https://neomacro.in/products/kailh-choc-v1-switches?variant=49466990133526,$5.61,$28.04,,
+4,Key Caps,Chocfox CFX Choc Blank Keycaps (10),5,Neo Marco,https://neomacro.in/products/chocfox-cfx-choc-blank-keycaps?variant=49467026833686,$4.09,$20.45,,
+5,Hot Swap Sockets,Kailh Choc PG1350 Hot Swap Sockets (10),5,Neo Marco,https://neomacro.in/products/kailh-choc-pg1350-hot-swap-sockets?variant=48049369907478,$1.69,$8.47,,
+,,,,,,Neo Marco Total:,$56.96,Free,$56.96
+6,Battery,3.7V 2500mAH Li-Po Rechargeable,2,Quartz Components,https://quartzcomponents.com/products/3-7v-2500mah-li-po-rechargeable-battery-103450?_pos=1&_sid=a4df19326&_ss=r,$3.10,$6.20,Free,$6.20
+,,,,,,Grand Total:,$84.16,$3.74,$87.90
