@@ -5,7 +5,7 @@ description: "A Split Ergonomic Keyboard"
 created_at: "2025-05-25"
 ---
 
-# Total Time: 24Hrs
+# Total Time: 27Hrs
 
 ## 25th May 2025 - Research
 
@@ -232,6 +232,37 @@ Other than that, making the cases is left. Then my keyboard will be done!
   </tr>
 </table>
 
-**Total Time Taken: 4Hrs**
+*3hrs*
 
-*Total Time Till Now: 24hrs*
+We're up for a new problem... PCBs are expensive. And mine is more than 10x10cm
+so it costs a hell lot! $11 in jlcpcb and that is the cheapest I saw in all
+stores.
+
+My Options:
+1. Pitch For more money
+2. Make the PCB 10x10cm by removing keys
+3. Remove the case.
+4. Make a reversible pcb so I can use one PCB for both left and right.
+
+My BOM is already very optimised(?) and I don't think it can get any cheaper.
+What I will do is 2, 3 & 4. I will not pitch the idea because I fear I will get
+rejected because I have no prior projects to show and making a keyboard is not
+that hard. Other people are doing such cool projects. I am jealous. But I will
+not fall behind. A caseless wireless split keyboard also has its own coolness.
+
+I will still make the case because that was the one of the criteria, but will
+not order it.
+
+So now I will get to work on getting everything on the top layer and making it
+reversible.
+
+Now after another very big overhaul to my PCB I am now done with the pcb layout
+I think only tracing is left. I will do that tomorrow and be done with it.
+Making the case is left. I have done partial work on that. Have to do more.
+
+And after that I will only have to do the firmware and I will be done with my
+SplitWave!
+
+**Total Time Taken: 7hrs**
+
+*Total Time Till Now: 27hrs*

@@ -1,0 +1,343 @@
+meta:
+  engine: 4.1.0
+  
+units:
+  # Proxy Spacing Variables
+  kx: cx
+  ky: cy
+  # Padding Variables
+  px: kx + 2
+  py: ky + 2
+
+  $default_width: cx
+  $default_height: cy
+
+points:
+  zones:
+    matrix:
+      key:
+        padding: 1ky + 0.75
+        spread: 1kx + 0.75
+      anchor:
+        shift: [100, -100]
+      columns:
+        # left to right
+        outer:
+          key.column_net: P1
+          key.mirror.column_net: P21
+        pinky:
+          key.column_net: P0
+          key.mirror.column_net: P16
+        ring:
+          key:
+            stagger: 0.3kx
+            column_net: P2
+            mirror.column_net: P14
+        middle:
+          key:
+            stagger: 0.3kx
+            column_net: P3
+            mirror.column_net: P15
+        index:
+          key:
+            stagger: -0.3kx
+            column_net: P4
+            mirror.column_net: P18
+        inner:
+          key.column_net: P5
+          key.mirror.column_net: P19
+      rows:
+        # bottom to top
+        bottom:
+          row_net: P21
+          mirror.row_net: P9
+        home:
+          row_net: P20
+          mirror.row_net: P8
+        top:
+          row_net: P19
+          mirror.row_net: P7
+    thumbs:
+      anchor:
+        ref: matrix_inner_bottom
+        shift: [-1.5kx, -ky - 5]
+      key:
+        padding: 1ky + 0.75
+        spread: 1kx + 0.75
+      columns:
+        one:
+          key:
+            splay: -10
+            column_net: P2
+            mirror.column_net: P14
+        two:
+          key:
+            splay: -9
+            shift: [3, -1] 
+            column_net: P3
+            mirror.column_net: P15
+        three:
+          key:
+            splay: -8
+            shift: [6, -2]
+            column_net: P4
+            mirror.column_net: P18
+        four:
+          key:
+            splay: -10
+            shift: [9, -2]
+            column_net: P5
+            mirror.column_net: P19
+      rows:
+        cluster:
+          row_net: P10
+          mirror.row_net: P2
+  
+  mirror:
+    ref: thumbs_four_cluster
+    distance: 2kx
+
+outlines:
+  board_left:
+    - what: polygon
+      fillet: 2
+      operation: stack
+      points:
+        - ref: matrix_outer_top
+          shift: [-px / 2, py / 2]
+        - ref: matrix_outer_top
+          shift: [px / 2, py / 2]
+        - ref: matrix_pinky_top
+          shift: [px / 2 - 1, py / 2]
+        - ref: matrix_ring_top
+          shift: [-px / 2, py / 2]
+        - ref: matrix_ring_top
+          shift: [px / 2 - 1, py / 2]
+        - ref: matrix_middle_top
+          shift: [-px / 2, py / 2]
+        - ref: matrix_middle_top
+          shift: [px / 2, py / 2]
+        - ref: matrix_index_top
+          shift: [-px / 2 + 1, py / 2]
+        - ref: matrix_inner_top
+          shift: [px / 2, py / 2]
+        - ref: matrix_inner_bottom
+          shift: [px / 2, -py / 2]
+
+        - ref: thumbs_three_cluster
+          shift: [-px / 2, py / 2 + 1]
+        - ref: thumbs_four_cluster
+          shift: [-px / 2, py / 2 + 1]
+        - ref: thumbs_four_cluster
+          shift: [px / 2, py / 2]
+        - ref: thumbs_four_cluster
+          shift: [px / 2, -py / 2]
+        - ref: thumbs_three_cluster
+          shift: [px / 2, -py / 2]
+        - ref: thumbs_three_cluster
+          shift: [-px / 2, -py / 2]
+        - ref: thumbs_one_cluster
+          shift: [px / 2, -py / 2]
+        - ref: thumbs_one_cluster
+          shift: [-px / 2, -py / 2]
+        - ref: matrix_pinky_bottom
+          shift: [px / 2, -py / 2]
+        - ref: matrix_outer_bottom
+          shift: [-px / 2, -py / 2]
+
+  board_right:
+    - what: polygon
+      fillet: 2
+      operation: stack
+      points:
+        - ref: mirror_matrix_outer_top
+          shift: [-px / 2, py / 2]
+        - ref: mirror_matrix_outer_top
+          shift: [px / 2, py / 2]
+        - ref: mirror_matrix_pinky_top
+          shift: [px / 2 - 1, py / 2]
+        - ref: mirror_matrix_ring_top
+          shift: [-px / 2, py / 2]
+        - ref: mirror_matrix_ring_top
+          shift: [px / 2 - 1, py / 2]
+        - ref: mirror_matrix_middle_top
+          shift: [-px / 2, py / 2]
+        - ref: mirror_matrix_middle_top
+          shift: [px / 2, py / 2]
+        - ref: mirror_matrix_index_top
+          shift: [-px / 2 + 1, py / 2]
+        - ref: mirror_matrix_inner_top
+          shift: [px / 2, py / 2]
+        - ref: mirror_matrix_inner_bottom
+          shift: [px / 2, -py / 2]
+
+        - ref: mirror_thumbs_three_cluster
+          shift: [-px / 2, py / 2 + 1]
+        - ref: mirror_thumbs_four_cluster
+          shift: [-px / 2, py / 2 + 1]
+        - ref: mirror_thumbs_four_cluster
+          shift: [px / 2, py / 2]
+        - ref: mirror_thumbs_four_cluster
+          shift: [px / 2, -py / 2]
+        - ref: mirror_thumbs_three_cluster
+          shift: [px / 2, -py / 2]
+        - ref: mirror_thumbs_three_cluster
+          shift: [-px / 2, -py / 2]
+        - ref: mirror_thumbs_one_cluster
+          shift: [px / 2, -py / 2]
+        - ref: mirror_thumbs_one_cluster
+          shift: [-px / 2, -py / 2]
+        - ref: mirror_matrix_pinky_bottom
+          shift: [px / 2, -py / 2]
+        - ref: mirror_matrix_outer_bottom
+          shift: [-px / 2, -py / 2]
+
+pcbs:
+  left:
+    template: kicad8
+    outlines:
+      main:
+        outline: board_left
+    footprints:
+      choc:
+        what: choc
+        where: /^matrix_.*|^thumbs_.*/
+        params:
+          keycaps: true
+          reverse: false
+          hotswap: true
+          from: "{{column_net}}"
+          to: "{{colrow}}"
+        adjust:
+          rotate: 180
+      diode:
+        what: diode
+        where: /^matrix_(?!(?:outer_top|outer_home|pinky_top|pinky_home|pinky_bottom)).*|^thumbs_.*/
+        params:
+          from: "{{colrow}}"
+          to: "{{row_net}}"
+        adjust:
+          shift: [0, 5]
+      diode_conflict_mc:
+        what: diode
+        where: /^matrix_(?:outer_top|outer_home|pinky_top|pinky_home|pinky_bottom)/
+        params:
+          from: "{{colrow}}"
+          to: "{{row_net}}"
+        adjust:
+          shift: [7.8, -3.5]
+          rotate: 90
+      supermini:
+        what: supermini
+        params:
+          side: B
+        where:
+          ref: matrix_outer_top
+          shift: [8, -4]
+          rotate: 90
+      battery_jack:
+        what: jstph
+        where:
+          ref: matrix_pinky_bottom
+          shift: [0.3kx, 5.5]
+          rotate: -90
+        params:
+            side: B
+            pos: pos
+            neg: GND
+      power_slider:
+        what: slider
+        where:
+            ref: matrix_outer_bottom
+            shift: [-8, 5.0]
+            rotate: 90
+        params:
+            side: B
+            from: pos
+            to: RAW
+      reset_button:
+        what: EVQPUC
+        params: 
+          side: B
+          from: GND
+          to: RST 
+        where:
+          ref: matrix_inner_bottom
+          shift: [8, -kx + 4]
+          rotate: -93.0
+  right:
+    template: kicad8
+    outlines:
+      main:
+        outline: board_right
+    footprints:
+      choc:
+        what: choc
+        where: /^mirror_matrix_.*|^mirror_thumbs_.*/
+        params:
+          keycaps: true
+          reverse: false
+          hotswap: true
+          from: "{{column_net}}"
+          to: "{{colrow}}"
+        adjust:
+          rotate: 180
+      diode:
+        what: diode
+        where: /^mirror_matrix_(?!(?:outer_top|outer_home|pinky_.*)).*|^mirror_thumbs_.*/
+        params:
+          from: "{{colrow}}"
+          to: "{{row_net}}"
+        adjust:
+          shift: [0, 5]
+      diode_conflict_mc:
+        what: diode
+        where: /^mirror_matrix_(?:outer_top|outer_home|pinky_.*)/
+        params:
+          from: "{{colrow}}"
+          to: "{{row_net}}"
+        adjust:
+          shift: [-7.8, -3.5]
+          rotate: 90
+      supermini:
+        what: supermini
+        params:
+          side: B
+        where:
+          ref: mirror_matrix_outer_top
+          shift: [8, -4]
+          rotate: 90
+      battery_jack:
+        what: jstph
+        where:
+          ref: mirror_matrix_pinky_bottom
+          shift: [0.3kx, 5.5]
+          rotate: -90
+        params:
+            side: B
+            pos: pos
+            neg: GND
+      power_slider:
+        what: slider
+        where:
+            ref: mirror_matrix_outer_bottom
+            shift: [-8, 5.0]
+            rotate: 90
+        params:
+            side: B
+            from: pos
+            to: RAW
+      reset_button:
+        what: EVQPUC
+        params: 
+          side: B
+          from: GND
+          to: RST 
+        where:
+          ref: mirror_matrix_inner_bottom
+          shift: [7.8, -kx + 4]
+          rotate: -93.0
+cases:
+  plate:
+    - name: board_left
+      extrude: 1.2

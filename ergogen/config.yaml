@@ -5,9 +5,19 @@ units:
   # Proxy Spacing Variables
   kx: cx
   ky: cy
+
   # Padding Variables
   px: kx + 2
   py: ky + 2
+
+  # extra padding for case.
+  dpx: kx + 8
+  dpy: ky + 8
+
+  # case wall width = dp(x/y) - p(x/y)
+
+  screw_size: 1.85
+  standoff_size: 3 # screw outer radius
 
   $default_width: cx
   $default_height: cy
@@ -24,39 +34,30 @@ points:
         # left to right
         outer:
           key.column_net: P1
-          key.mirror.column_net: P21
         pinky:
           key.column_net: P0
-          key.mirror.column_net: P16
         ring:
           key:
             stagger: 0.3kx
             column_net: P2
-            mirror.column_net: P14
         middle:
           key:
             stagger: 0.3kx
             column_net: P3
-            mirror.column_net: P15
         index:
           key:
             stagger: -0.3kx
             column_net: P4
-            mirror.column_net: P18
         inner:
           key.column_net: P5
-          key.mirror.column_net: P19
       rows:
         # bottom to top
         bottom:
-          row_net: P21
-          mirror.row_net: P9
+          row_net: P19
         home:
           row_net: P20
-          mirror.row_net: P8
         top:
-          row_net: P19
-          mirror.row_net: P7
+          row_net: P21
     thumbs:
       anchor:
         ref: matrix_inner_bottom
@@ -69,131 +70,171 @@ points:
           key:
             splay: -10
             column_net: P2
-            mirror.column_net: P14
         two:
           key:
             splay: -9
             shift: [3, -1] 
             column_net: P3
-            mirror.column_net: P15
         three:
           key:
             splay: -8
             shift: [6, -2]
             column_net: P4
-            mirror.column_net: P18
         four:
           key:
             splay: -10
             shift: [9, -2]
             column_net: P5
-            mirror.column_net: P19
       rows:
         cluster:
           row_net: P10
-          mirror.row_net: P2
-  
-  mirror:
-    ref: thumbs_four_cluster
-    distance: 2kx
 
 outlines:
-  board_left:
+  board_left: # we do not have a right board, we only use this and reversi it for the right board
     - what: polygon
       fillet: 2
       operation: stack
       points:
+        # top part
         - ref: matrix_outer_top
-          shift: [-px / 2, py / 2]
+          shift: [-0.55px, 0.55py]
         - ref: matrix_outer_top
-          shift: [px / 2, py / 2]
+          shift: [0.55px, 0.55py]
         - ref: matrix_pinky_top
-          shift: [px / 2 - 1, py / 2]
+          shift: [0.55px - 3, 0.55py]
         - ref: matrix_ring_top
-          shift: [-px / 2, py / 2]
+          shift: [-0.55px, 0.55py]
         - ref: matrix_ring_top
-          shift: [px / 2 - 1, py / 2]
+          shift: [0.55px - 3, 0.55py]
         - ref: matrix_middle_top
-          shift: [-px / 2, py / 2]
+          shift: [-0.55px, 0.55py]
         - ref: matrix_middle_top
-          shift: [px / 2, py / 2]
+          shift: [0.55px, 0.55py]
         - ref: matrix_index_top
-          shift: [-px / 2 + 1, py / 2]
+          shift: [-0.55px + 3, 0.55py]
         - ref: matrix_inner_top
-          shift: [px / 2, py / 2]
-        - ref: matrix_inner_bottom
-          shift: [px / 2, -py / 2]
+          shift: [1.7px, 0.55py]
 
-        - ref: thumbs_three_cluster
-          shift: [-px / 2, py / 2 + 1]
+        # bottom part
         - ref: thumbs_four_cluster
-          shift: [-px / 2, py / 2 + 1]
+          shift: [-0.35px, 0.55py + 1]
         - ref: thumbs_four_cluster
-          shift: [px / 2, py / 2]
+          shift: [0.55px, 0.55py]
         - ref: thumbs_four_cluster
-          shift: [px / 2, -py / 2]
+          shift: [0.55px, -0.55py]
         - ref: thumbs_three_cluster
-          shift: [px / 2, -py / 2]
+          shift: [0.55px, -0.55py]
         - ref: thumbs_three_cluster
-          shift: [-px / 2, -py / 2]
+          shift: [-0.55px, -0.55py]
         - ref: thumbs_one_cluster
-          shift: [px / 2, -py / 2]
+          shift: [0.55px, -0.55py]
         - ref: thumbs_one_cluster
-          shift: [-px / 2, -py / 2]
+          shift: [-0.55px, -0.55py]
         - ref: matrix_pinky_bottom
-          shift: [px / 2, -py / 2]
+          shift: [0.55px, -0.55py]
         - ref: matrix_outer_bottom
-          shift: [-px / 2, -py / 2]
+          shift: [-0.55px, -0.55py]
 
-  board_right:
+  # big board for case
+  xl_board_left:
     - what: polygon
       fillet: 2
       operation: stack
       points:
-        - ref: mirror_matrix_outer_top
-          shift: [-px / 2, py / 2]
-        - ref: mirror_matrix_outer_top
-          shift: [px / 2, py / 2]
-        - ref: mirror_matrix_pinky_top
-          shift: [px / 2 - 1, py / 2]
-        - ref: mirror_matrix_ring_top
-          shift: [-px / 2, py / 2]
-        - ref: mirror_matrix_ring_top
-          shift: [px / 2 - 1, py / 2]
-        - ref: mirror_matrix_middle_top
-          shift: [-px / 2, py / 2]
-        - ref: mirror_matrix_middle_top
-          shift: [px / 2, py / 2]
-        - ref: mirror_matrix_index_top
-          shift: [-px / 2 + 1, py / 2]
-        - ref: mirror_matrix_inner_top
-          shift: [px / 2, py / 2]
-        - ref: mirror_matrix_inner_bottom
-          shift: [px / 2, -py / 2]
+        - ref: matrix_outer_top
+          shift: [-0.5dpx, 0.5dpy]
+        - ref: matrix_outer_top
+          shift: [0.5dpx, 0.5dpy]
+        - ref: matrix_pinky_top
+          shift: [0.5dpx - 7, 0.5dpy]
+        - ref: matrix_ring_top
+          shift: [-0.5dpx, 0.5dpy]
+        - ref: matrix_ring_top
+          shift: [0.5dpx - 7, 0.5dpy]
+        - ref: matrix_middle_top
+          shift: [-0.5dpx, 0.5dpy]
+        - ref: matrix_middle_top
+          shift: [0.5dpx, 0.5dpy]
+        - ref: matrix_index_top
+          shift: [-0.5dpx + 7, 0.5dpy]
+        - ref: matrix_inner_top
+          shift: [1.8px, 0.5dpy]
 
-        - ref: mirror_thumbs_three_cluster
-          shift: [-px / 2, py / 2 + 1]
-        - ref: mirror_thumbs_four_cluster
-          shift: [-px / 2, py / 2 + 1]
-        - ref: mirror_thumbs_four_cluster
-          shift: [px / 2, py / 2]
-        - ref: mirror_thumbs_four_cluster
-          shift: [px / 2, -py / 2]
-        - ref: mirror_thumbs_three_cluster
-          shift: [px / 2, -py / 2]
-        - ref: mirror_thumbs_three_cluster
-          shift: [-px / 2, -py / 2]
-        - ref: mirror_thumbs_one_cluster
-          shift: [px / 2, -py / 2]
-        - ref: mirror_thumbs_one_cluster
-          shift: [-px / 2, -py / 2]
-        - ref: mirror_matrix_pinky_bottom
-          shift: [px / 2, -py / 2]
-        - ref: mirror_matrix_outer_bottom
-          shift: [-px / 2, -py / 2]
+        - ref: thumbs_four_cluster
+          shift: [-0.2dpx, 0.5dpy + 1]
+        - ref: thumbs_four_cluster
+          shift: [0.5dpx, 0.5dpy]
+        - ref: thumbs_four_cluster
+          shift: [0.5dpx, -0.5dpy]
+        - ref: thumbs_three_cluster
+          shift: [0.5dpx, -0.55dpy]
+        - ref: thumbs_three_cluster
+          shift: [-0.5dpx, -0.55dpy]
+        - ref: thumbs_one_cluster
+          shift: [0.5dpx, -0.55dpy]
+        - ref: thumbs_one_cluster
+          shift: [-0.5dpx, -0.5dpy]
+        - ref: matrix_pinky_bottom
+          shift: [0.4dpx, -0.5dpy]
+        - ref: matrix_outer_bottom
+          shift: [-0.5dpx, -0.5dpy]
+
+  mounting:
+    - what: circle
+      radius: screw_size
+      where: 
+        ref: matrix_outer_top
+        shift: [0.45px, 5]
+    - what: circle
+      radius: screw_size
+      where: 
+        ref: matrix_ring_bottom
+        shift: [0.45px, -1px]
+    - what: circle
+      radius: screw_size
+      where: 
+        ref: matrix_inner_top
+        shift: [0.5px, 0.2px]
+    - what: circle
+      radius: screw_size
+      where: 
+        ref: thumbs_three_cluster
+        shift: [0, 0.8px]
+    - what: circle
+      radius: screw_size
+      where: 
+        ref: matrix_ring_home
+        shift: [0.45px, 0.4px]
+
+  standoff:
+    - what: circle
+      radius: standoff_size
+      where: 
+        ref: matrix_outer_top
+        shift: [0.45px, 5]
+    - what: circle
+      radius: standoff_size
+      where: 
+        ref: matrix_ring_bottom
+        shift: [0.45px, -1px]
+    - what: circle
+      radius: standoff_size
+      where: 
+        ref: matrix_inner_top
+        shift: [0.5px, 0.2px]
+    - what: circle
+      radius: standoff_size
+      where: 
+        ref: thumbs_three_cluster
+        shift: [0, 0.8px]
+    - what: circle
+      radius: standoff_size
+      where: 
+        ref: matrix_ring_home
+        shift: [0.45px, 0.4px]
 
 pcbs:
-  left:
+  board:
     template: kicad8
     outlines:
       main:
@@ -204,7 +245,7 @@ pcbs:
         where: /^matrix_.*|^thumbs_.*/
         params:
           keycaps: true
-          reverse: false
+          reverse: true
           hotswap: true
           from: "{{column_net}}"
           to: "{{colrow}}"
@@ -212,35 +253,26 @@ pcbs:
           rotate: 180
       diode:
         what: diode
-        where: /^matrix_(?!(?:outer_top|outer_home|pinky_top|pinky_home|pinky_bottom)).*|^thumbs_.*/
+        where: /^matrix_.*|^thumbs_.*/
         params:
           from: "{{colrow}}"
           to: "{{row_net}}"
         adjust:
           shift: [0, 5]
-      diode_conflict_mc:
-        what: diode
-        where: /^matrix_(?:outer_top|outer_home|pinky_top|pinky_home|pinky_bottom)/
-        params:
-          from: "{{colrow}}"
-          to: "{{row_net}}"
-        adjust:
-          shift: [7.8, -3.5]
-          rotate: 90
       supermini:
         what: supermini
         params:
-          side: B
+          reversible: true
         where:
-          ref: matrix_outer_top
-          shift: [8, -4]
-          rotate: 90
+          ref: matrix_inner_top
+          shift: [1.1px, -0.4px]
+          rotate: 0
       battery_jack:
         what: jstph
         where:
-          ref: matrix_pinky_bottom
-          shift: [0.3kx, 5.5]
-          rotate: -90
+          ref: matrix_inner_bottom
+          shift: [1px + 2, -px + 10.0]
+          rotate: 180
         params:
             side: B
             pos: pos
@@ -248,11 +280,11 @@ pcbs:
       power_slider:
         what: slider
         where:
-            ref: matrix_outer_bottom
-            shift: [-8, 5.0]
-            rotate: 90
+            ref: matrix_inner_bottom
+            shift: [1.5px + 2, 5.0]
+            rotate: -90
         params:
-            side: B
+            side: F
             from: pos
             to: RAW
       reset_button:
@@ -263,81 +295,73 @@ pcbs:
           to: RST 
         where:
           ref: matrix_inner_bottom
-          shift: [8, -kx + 4]
-          rotate: -93.0
-  right:
-    template: kicad8
-    outlines:
-      main:
-        outline: board_right
-    footprints:
-      choc:
-        what: choc
-        where: /^mirror_matrix_.*|^mirror_thumbs_.*/
-        params:
-          keycaps: true
-          reverse: false
-          hotswap: true
-          from: "{{column_net}}"
-          to: "{{colrow}}"
-        adjust:
-          rotate: 180
-      diode:
-        what: diode
-        where: /^mirror_matrix_(?!(?:outer_top|outer_home|pinky_.*)).*|^mirror_thumbs_.*/
-        params:
-          from: "{{colrow}}"
-          to: "{{row_net}}"
-        adjust:
-          shift: [0, 5]
-      diode_conflict_mc:
-        what: diode
-        where: /^mirror_matrix_(?:outer_top|outer_home|pinky_.*)/
-        params:
-          from: "{{colrow}}"
-          to: "{{row_net}}"
-        adjust:
-          shift: [-7.8, -3.5]
-          rotate: 90
-      supermini:
-        what: supermini
-        params:
-          side: B
-        where:
-          ref: mirror_matrix_outer_top
-          shift: [8, -4]
-          rotate: 90
-      battery_jack:
-        what: jstph
-        where:
-          ref: mirror_matrix_pinky_bottom
-          shift: [0.3kx, 5.5]
+          shift: [1.5px + 2, -4]
           rotate: -90
-        params:
-            side: B
-            pos: pos
-            neg: GND
-      power_slider:
-        what: slider
-        where:
-            ref: mirror_matrix_outer_bottom
-            shift: [-8, 5.0]
-            rotate: 90
-        params:
-            side: B
-            from: pos
-            to: RAW
-      reset_button:
-        what: EVQPUC
-        params: 
-          side: B
-          from: GND
-          to: RST 
-        where:
-          ref: mirror_matrix_inner_bottom
-          shift: [7.8, -kx + 4]
-          rotate: -93.0
+      mounting_hole_nw:
+        what: mountinghole
+        where: 
+          ref: matrix_outer_top
+          shift: [0.45px, 5]
+      mounting_hole_sw:
+        what: mountinghole
+        where: 
+          ref: matrix_ring_bottom
+          shift: [0.45px, -1px]
+      mounting_hole_ne:
+        what: mountinghole
+        where: 
+          ref: matrix_inner_top
+          shift: [0.5px, 0.2px]
+      mounting_hole_se:
+        what: mountinghole
+        where: 
+          ref: thumbs_three_cluster
+          shift: [0, 0.8px]
+      mounting_hole_mid:
+        what: mountinghole
+        where: 
+          ref: matrix_ring_home
+          shift: [0.45px, 0.4px]
+
 cases:
-  plate:
+  bottom:
     - name: board_left
       extrude: 1.2
+  xl_bottom:
+    - name: xl_board_left
+      extrude: 1.2
+  _outerWall:
+    - name: xl_board_left
+      extrude: 5.6
+  _innerWall:
+    - name: board_left
+      extrude: 5.6
+  wall:
+    - what: case
+      name: _outerWall
+      operation: add
+    - what: case
+      name: _innerWall
+      operation: subtract
+
+  _holes:
+    - name: mounting
+      extrude: 4
+  _standoffs:
+    - name: standoff
+      extrude: 4
+
+  case:
+    - what: case
+      name: _standoffs
+      operation: add
+    - what: case
+      name: _holes
+      operation: subtract
+
+    - what: case
+      name: xl_bottom
+      operation: add
+    - what: case
+      name: wall
+      operation: add
