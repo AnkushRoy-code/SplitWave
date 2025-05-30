@@ -260,6 +260,11 @@ Now after another very big overhaul to my PCB I am now done with the pcb layout
 I think only tracing is left. I will do that tomorrow and be done with it.
 Making the case is left. I have done partial work on that. Have to do more.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1b064a3a-530d-4d08-b0d3-abe2ad7d7a3b" alt="The Sketch" /><br>
+  <b>The PCB for the left part(that will be used for the rigth too!)</b>
+</p>
+
 And after that I will only have to do the firmware and I will be done with my
 SplitWave!
 
