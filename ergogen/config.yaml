@@ -23,19 +23,40 @@ points:
       columns:
         # left to right
         outer:
+          key.column_net: P1
+          key.mirror.column_net: P21
         pinky:
+          key.column_net: P0
+          key.mirror.column_net: P16
         ring:
-          key.stagger: 0.3kx
+          key:
+            stagger: 0.3kx
+            column_net: P2
+            mirror.column_net: P14
         middle:
-          key.stagger: 0.3kx
+          key:
+            stagger: 0.3kx
+            column_net: P3
+            mirror.column_net: P15
         index:
-          key.stagger: -0.3kx
+          key:
+            stagger: -0.3kx
+            column_net: P4
+            mirror.column_net: P18
         inner:
+          key.column_net: P5
+          key.mirror.column_net: P19
       rows:
         # bottom to top
         bottom:
+          row_net: P21
+          mirror.row_net: P9
         home:
+          row_net: P20
+          mirror.row_net: P8
         top:
+          row_net: P19
+          mirror.row_net: P7
     thumbs:
       anchor:
         ref: matrix_inner_bottom
@@ -45,21 +66,32 @@ points:
         spread: 1kx + 0.75
       columns:
         one:
-          key.splay: -10
+          key:
+            splay: -10
+            column_net: P2
+            mirror.column_net: P14
         two:
           key:
             splay: -9
             shift: [3, -1] 
+            column_net: P3
+            mirror.column_net: P15
         three:
           key:
             splay: -8
             shift: [6, -2]
+            column_net: P4
+            mirror.column_net: P18
         four:
           key:
             splay: -10
             shift: [9, -2]
+            column_net: P5
+            mirror.column_net: P19
       rows:
         cluster:
+          row_net: P10
+          mirror.row_net: P2
   
   mirror:
     ref: thumbs_four_cluster
@@ -195,13 +227,13 @@ pcbs:
         adjust:
           shift: [7.8, -3.5]
           rotate: 90
-      nice_nano:
-        what: nice_nano
+      supermini:
+        what: supermini
         params:
           side: B
         where:
           ref: matrix_outer_top
-          shift: [10, -4]
+          shift: [8, -4]
           rotate: 90
       battery_jack:
         what: jstph
@@ -223,6 +255,16 @@ pcbs:
             side: B
             from: pos
             to: RAW
+      reset_button:
+        what: EVQPUC
+        params: 
+          side: B
+          from: GND
+          to: RST 
+        where:
+          ref: matrix_inner_bottom
+          shift: [8, -kx + 4]
+          rotate: -93.0
   right:
     template: kicad8
     outlines:
@@ -257,13 +299,13 @@ pcbs:
         adjust:
           shift: [-7.8, -3.5]
           rotate: 90
-      nice_nano:
-        what: nice_nano
+      supermini:
+        what: supermini
         params:
           side: B
         where:
           ref: mirror_matrix_outer_top
-          shift: [10, -4]
+          shift: [8, -4]
           rotate: 90
       battery_jack:
         what: jstph
@@ -285,3 +327,17 @@ pcbs:
             side: B
             from: pos
             to: RAW
+      reset_button:
+        what: EVQPUC
+        params: 
+          side: B
+          from: GND
+          to: RST 
+        where:
+          ref: mirror_matrix_inner_bottom
+          shift: [7.8, -kx + 4]
+          rotate: -93.0
+cases:
+  plate:
+    - name: board_left
+      extrude: 1.2

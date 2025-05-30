@@ -162,7 +162,7 @@ Also I am half done with my pcb!
 
 *Total Time Till Now: 15hrs*
 
-## 28th May 2025 
+## 29th May 2025 
 
 Today my plans are of making the BOM in a csv file with links. Since it's
 getting hard to manage everything rn.
@@ -193,3 +193,32 @@ piece and the vendor supports hcb....
 **Total Time Taken: 5hrs**
 
 *Total Time Till Now: 20hrs*
+
+## 30th May 2025
+
+Were back to $100, I am soo happy again. But it has it's costs. The only reason
+I have Typeractive is because I wanted their key switches (red), and no one has
+them. But their shipping costs $15 if the total cost is under $75, and since
+the switches were themeselves $30 I thought I should add other stuff too, so I
+did and got eligible of free delivery. All the I bought would've been bought
+eitherwise. Neo Marco had better prices. If I had used Neo Marco I could've
+saved like $5-10 but they had the worst switches! And I'd have to find the
+other things elsewhere too that I order from Typeractive since Neo Marco
+doesn't have all of them! The only problem is that support of hcb. I don't know
+if they support it.
+
+*0.5hrs*
+
+I do not think there's a single store left that ships nRF52840 mcu in India.
+Almost all of them either do not support hcb or have really expensive shipping.
+Finally I have found this https://holykeebs.com/products/supermini-nrf52840 I
+hope it is not a scam and supports hcb. The total cost now is $30. ($10 shipping + tax)
+
+*0.5hrs*
+
+Thankfully atleast my PCB is done. Only some holes for mounting are needed.
+Other than that, making the cases is left. Then my keyboard will be done!
+
+**Total Time Taken: 4Hrs**
+
+*Total Time Till Now: 24hrs*
