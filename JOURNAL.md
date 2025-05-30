@@ -5,7 +5,7 @@ description: "A Split Ergonomic Keyboard"
 created_at: "2025-05-25"
 ---
 
-# Total Time: 20Hrs
+# Total Time: 24Hrs
 
 ## 25th May 2025 - Research
 
@@ -218,6 +218,19 @@ hope it is not a scam and supports hcb. The total cost now is $30. ($10 shipping
 
 Thankfully atleast my PCB is done. Only some holes for mounting are needed.
 Other than that, making the cases is left. Then my keyboard will be done!
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/8f7c3e6d-9fb6-4b89-916e-0f97f048dc1e" alt="left pcb image" width="300"/><br>
+      <b>Left PCB</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f2c8997a-a89c-4d04-90a5-9d9c01201c12" alt="right pcb image" width="300"/><br>
+      <b>Right PCB</b>
+    </td>
+  </tr>
+</table>
 
 **Total Time Taken: 4Hrs**
 
