@@ -271,3 +271,31 @@ SplitWave!
 **Total Time Taken: 7hrs**
 
 *Total Time Till Now: 27hrs*
+
+## 31th May 2025
+
+I am done with the cases and the pcb(i think). I still need to go through
+everything in the pcb so that I can rest assured that my connections are good
+and appropriate.
+
+*4hrs*
+
+I think I am once and for all done with the cases! I have made three cases.
+Out of these I will print 2 or one of these in sets of 2 (for left and right).
+If budget doesn't allow that then I will just do the open_case that is just the
+bottom thing. And if I have a little more money left then I will get both the
+top and bottom (excluding the open_case this time).
+
+*1hrs*
+
+Done some small tweaks to my pcb. ANd completed my BOM. It is finally complete
+now!!! I am really happy. The number says it is $150.2 but I am sure it will be
+around $149 because I approximated the last few entries of the BOM. Will update
+them before submitting surely with exact amounts.
+
+Now the only thing left is Firmware I already know that I will be using ZMK for
+this but I have no prior experience with ZMK. Well we'll make this work out as
+well! Lets head over to the docs and give it a nice read
+
+*0.5hrs*
+

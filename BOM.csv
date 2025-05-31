@@ -8,4 +8,7 @@ Index,Name,Model,Quantity,Shop,Price,Accumulated Price,Shipping + Tax,Total Pric
 7,Battery Jack,JST PH 2.0mm,2,Typeractive,$1.17,$2.34,Free,$2.34,https://typeractive.xyz/products/battery-jack?_pos=1&_sid=66ae02c58&_ss=r,
 8,Diodes,SMD Diodes (10),5,Typeractive,$1.17,$5.86,Free,$5.86,https://typeractive.xyz/products/smd-diodes?_pos=1&_psq=smd&_ss=e&_v=1.0,
 9,Battery,3.7V 2500mAH Li-Po Rechargeable,2,MakerBazar,$3.50,$7,$1,$8,https://makerbazar.in/products/3-7v-2200mah-li-po-rechargeable-battery,
-,,,,,Grand Total:,$104.34,$11,$115.34,,
+10,PCB,JLCPCB (150x110mm) (minimum 5),5,JLCPCB,$10.5,$10.5,$12,$22.5,https://jlcpcb.com/,
+11,Case,Top and Bottom,2,3Ding,$8.18,$8.18,Free,$8.18,https://www.3ding.in/,
+12,Screws,Inserts(M2X3) and Round Head(M2X4/10),20,OnlyScrews,$2,$2,$2,$4,https://onlyscrews.in,
+,,,,,Grand Total:,$124.02,$25,$150.02,,

@@ -179,7 +179,54 @@ outlines:
         - ref: matrix_outer_bottom
           shift: [-0.5dpx, -0.5dpy]
 
-  mounting:
+  top: # for top case
+    - what: polygon
+      fillet: 2
+      operation: stack
+      points:
+        - ref: matrix_outer_top
+          shift: [-0.55px, 0.55py]
+        - ref: matrix_outer_top
+          shift: [0.55px, 0.55py]
+        - ref: matrix_pinky_top
+          shift: [0.55px - 3, 0.55py]
+        - ref: matrix_ring_top
+          shift: [-0.55px, 0.55py]
+        - ref: matrix_ring_top
+          shift: [0.55px - 3, 0.55py]
+        - ref: matrix_middle_top
+          shift: [-0.55px, 0.55py]
+        - ref: matrix_middle_top
+          shift: [0.55px, 0.55py]
+        - ref: matrix_index_top
+          shift: [-0.55px + 3, 0.55py]
+        - ref: matrix_inner_top
+          shift: [0.55px + 1, 0.55py]
+        - ref: matrix_inner_home
+          shift: [0.55px + 1, -0.55py + 1]
+        - ref: matrix_inner_home
+          shift: [1.5px + 3.7, -0.55py + 1]
+
+        - ref: thumbs_four_cluster
+          shift: [-0.35px, 0.55py + 1]
+        - ref: thumbs_four_cluster
+          shift: [0.55px, 0.55py]
+        - ref: thumbs_four_cluster
+          shift: [0.55px, -0.55py]
+        - ref: thumbs_three_cluster
+          shift: [0.55px, -0.55py]
+        - ref: thumbs_three_cluster
+          shift: [-0.55px, -0.55py]
+        - ref: thumbs_one_cluster
+          shift: [0.55px, -0.55py]
+        - ref: thumbs_one_cluster
+          shift: [-0.55px, -0.55py]
+        - ref: matrix_pinky_bottom
+          shift: [0.55px, -0.55py]
+        - ref: matrix_outer_bottom
+          shift: [-0.55px, -0.55py]
+
+  mounting: # mounting screw inner
     - what: circle
       radius: screw_size
       where: 
@@ -206,7 +253,19 @@ outlines:
         ref: matrix_ring_home
         shift: [0.45px, 0.4px]
 
-  standoff:
+  mounting_top_case: # the top will be mounted by only 2 screws, just to keep it in place
+    - what: circle
+      radius: screw_size
+      where: 
+        ref: matrix_ring_bottom
+        shift: [0.45px, -1px]
+    - what: circle
+      radius: screw_size
+      where: 
+        ref: thumbs_three_cluster
+        shift: [0, 0.8px]
+
+  standoff: # mounting screw outer
     - what: circle
       radius: standoff_size
       where: 
@@ -232,6 +291,23 @@ outlines:
       where: 
         ref: matrix_ring_home
         shift: [0.45px, 0.4px]
+
+  standoff_top_case:
+    - what: circle
+      radius: standoff_size
+      where: 
+        ref: matrix_ring_bottom
+        shift: [0.45px, -1px]
+    - what: circle
+      radius: standoff_size
+      where: 
+        ref: thumbs_three_cluster
+        shift: [0, 0.8px]
+
+  keys:
+    - what: rectangle
+      where: true
+      size: [16, 16]
 
 pcbs:
   board:
@@ -324,34 +400,89 @@ pcbs:
           shift: [0.45px, 0.4px]
 
 cases:
-  bottom:
+  # flat bottom
+  _bottom:
     - name: board_left
       extrude: 1.2
-  xl_bottom:
+  _xl_bottom:
     - name: xl_board_left
       extrude: 1.2
-  _outerWall:
+
+  _top:
+    - name: top
+      extrude: 1.2
+
+  _outer_wall:
     - name: xl_board_left
-      extrude: 5.6
-  _innerWall:
+      extrude: 10
+  _inner_wall:
     - name: board_left
-      extrude: 5.6
-  wall:
+      extrude: 10
+  _wall:
     - what: case
-      name: _outerWall
+      name: _outer_wall
       operation: add
     - what: case
-      name: _innerWall
+      name: _inner_wall
       operation: subtract
 
+  _outer_wall_open:
+    - name: xl_board_left
+      extrude: 5.6
+  _inner_wall_open:
+    - name: board_left
+      extrude: 5.6
+  _wall_open:
+    - what: case
+      name: _outer_wall_open
+      operation: add
+    - what: case
+      name: _inner_wall_open
+      operation: subtract
+
+  # cutout for the keys
+  _keys_cutout:
+    - name: keys
+      extrude: 1.2
+
+  # holes for the screws
   _holes:
     - name: mounting
-      extrude: 4
+      extrude: 8.4
   _standoffs:
+    - name: standoff
+      extrude: 8.4
+
+  _holes_top:
+    - name: mounting_top_case
+      extrude: 1.2
+  _standoffs_top:
+    - name: standoff_top_case
+      extrude: 1.2
+
+  _holes_open:
+    - name: mounting
+      extrude: 4
+  _standoffs_open:
     - name: standoff
       extrude: 4
 
-  case:
+  top_case:
+    - what: case
+      name: _top
+      operation: add
+    - what: case
+      name: _keys_cutout
+      operation: subtract
+
+    - what: case
+      name: _standoffs_top
+      operation: add
+    - what: case
+      name: _holes_top
+      operation: subtract
+
+  bottom_case:
     - what: case
       name: _standoffs
       operation: add
@@ -360,8 +491,23 @@ cases:
       operation: subtract
 
     - what: case
-      name: xl_bottom
+      name: _xl_bottom
       operation: add
     - what: case
-      name: wall
+      name: _wall
+      operation: add
+
+  open_case:
+    - what: case
+      name: _standoffs_open
+      operation: add
+    - what: case
+      name: _holes_open
+      operation: subtract
+
+    - what: case
+      name: _xl_bottom
+      operation: add
+    - what: case
+      name: _wall_open
       operation: add
