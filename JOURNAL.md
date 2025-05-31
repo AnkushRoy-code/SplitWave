@@ -293,6 +293,28 @@ now!!! I am really happy. The number says it is $150.2 but I am sure it will be
 around $149 because I approximated the last few entries of the BOM. Will update
 them before submitting surely with exact amounts.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/80e07c14-9761-4ec1-a03e-ec6301f43a0d" alt="PCB of Left part" /><br>
+  <b>The final completed PCB!!!</b>
+</p>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ddf3ce6d-562a-4076-b134-55b1bfaa9834" alt="left pcb image" width="300"/><br>
+      <b>Top Case</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/bcb9879a-e507-4541-a275-25d90300118a" alt="right pcb image" width="300"/><br>
+      <b>Bottom Case</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/30966e31-2443-470f-874b-0eb9ee2ab353" alt="right pcb image" width="300"/><br>
+      <b>Open Case (Might not be ordered)</b>
+    </td>
+  </tr>
+</table>
+
 Now the only thing left is Firmware I already know that I will be using ZMK for
 this but I have no prior experience with ZMK. Well we'll make this work out as
 well! Lets head over to the docs and give it a nice read
