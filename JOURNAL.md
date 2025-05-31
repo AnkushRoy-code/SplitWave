@@ -5,7 +5,7 @@ description: "A Split Ergonomic Keyboard"
 created_at: "2025-05-25"
 ---
 
-# Total Time: 27Hrs
+# Total Time: 33Hrs
 
 ## 25th May 2025 - Research
 
@@ -321,3 +321,12 @@ well! Lets head over to the docs and give it a nice read
 
 *0.5hrs*
 
+Finished reading ZMK Journal upto [this](https://zmk.dev/docs/customization) also made the [repo](https://github.com/AnkushRoy-code/zmk-config-splitwave.git) they asked and
+following the steps they are saying feeling a lot tired today...I might be a
+bit feverish today... good night to me.
+
+*0.5hrs*
+
+**Total Time Taken: 6hrs**
+
+*Total Time Till now: 33hrs*
