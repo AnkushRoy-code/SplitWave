@@ -5,7 +5,7 @@ description: "A Split Ergonomic Keyboard"
 created_at: "2025-05-25"
 ---
 
-# Total Time: 33Hrs
+# Total Time: 37Hrs
 
 ## 25th May 2025 - Research
 
@@ -352,3 +352,5 @@ And the built firmware is here:
 https://github.com/AnkushRoy-code/zmk-config-splitwave/actions/runs/15375124402
 
 That is it all! I am really happy I have made the effort in Journalling this whole journey. I hope I can execute the final building of the keyboard when the parts arrive!
+
+**Total Time Taken: 4hrs**
