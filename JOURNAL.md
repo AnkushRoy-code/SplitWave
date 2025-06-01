@@ -343,6 +343,7 @@ ZMK took a lot of brain. Read the docs a lot. Most of the stuff are ditto same t
 
 The links are as follows:
 https://github.com/christianselig/caldera-keyboard
+
 https://github.com/zmkfirmware/zmk/tree/main/app/boards/shields/corne
 
 The zmk-config folder is here: 
