@@ -162,7 +162,7 @@ Also I am half done with my pcb!
 
 *Total Time Till Now: 15hrs*
 
-## 29th May 2025 
+## 29th May 2025 - BOM.csv, MCU selection
 
 Today my plans are of making the BOM in a csv file with links. Since it's
 getting hard to manage everything rn.
@@ -194,7 +194,7 @@ piece and the vendor supports hcb....
 
 *Total Time Till Now: 20hrs*
 
-## 30th May 2025
+## 30th May 2025 - Savings, PCB
 
 Were back to $100, I am soo happy again. But it has it's costs. The only reason
 I have Typeractive is because I wanted their key switches (red), and no one has
@@ -272,7 +272,7 @@ SplitWave!
 
 *Total Time Till Now: 27hrs*
 
-## 31th May 2025
+## 31th May 2025 - Cases and PCB
 
 I am done with the cases and the pcb(i think). I still need to go through
 everything in the pcb so that I can rest assured that my connections are good
@@ -330,3 +330,25 @@ bit feverish today... good night to me.
 **Total Time Taken: 6hrs**
 
 *Total Time Till now: 33hrs*
+
+## 1st June 2025 - Finished!!!
+
+### Yapping
+I am making this(probably last) journal entry from my phone because my laptop just ran out of battery and I forgot to make the journal. We're experiencing flood so there's no electricity my mobile also has like very less so I will make it quick, read the submitting guide one last time and then hopefully submit. I don't know when I will be able to check the results though, last year electricity was cutt off for a whole week...
+
+### Journalling
+So today I just made my firmware using ZMK it was not hard, it compiled without any warning or errors but I am not sure if it will work yet until I have the mcu. 
+
+ZMK took a lot of brain. Read the docs a lot. Most of the stuff are ditto same to their docs only. Other than that I also went through the source code of ZMK searching for other Shields for reference, other than that I also took some references from a keyboard named caldera.
+
+The links are as follows:
+https://github.com/christianselig/caldera-keyboard
+https://github.com/zmkfirmware/zmk/tree/main/app/boards/shields/corne
+
+The zmk-config folder is here: 
+https://github.com/AnkushRoy-code/zmk-config-splitwave/tree/main
+
+And the built firmware is here:
+https://github.com/AnkushRoy-code/zmk-config-splitwave/actions/runs/15375124402
+
+That is it all! I am really happy I have made the effort in Journalling this whole journey. I hope I can execute the final building of the keyboard when the parts arrive!
