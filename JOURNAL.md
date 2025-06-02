@@ -379,6 +379,24 @@ made things less messed up by adding a git ignore and adding the zmk-config as
 a submodule. Also I remembered that I didn't include the PCB-3D view (not that
 I think it was mandatory) but here it is:
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/d6bdcda3-fc9e-407a-a3c5-6bb332dbc9ab" alt="left pcb image" width="300"/><br>
+      <b>Front Of the PCB</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/a482d28e-3f60-4139-b6f1-a964b47f3720" alt="right pcb image" width="300"/><br>
+      <b>Back Of the PCB</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/7bd0ee6d-b7cc-4e0a-bba2-bdaa8828d381" alt="right pcb image" width="300"/><br>
+      <b>Updated PCB</b>
+    </td>
+  </tr>
+</table>
+
+
 And now I (think I) can say that my SplitWave is done!
 
 ### Yapping
