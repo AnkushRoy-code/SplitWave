@@ -5,7 +5,7 @@ description: "A Split Ergonomic Keyboard"
 created_at: "2025-05-25"
 ---
 
-# Total Time: 39Hrs
+# Total Time: 40Hrs
 
 ## 25th May 2025 - Research
 
@@ -402,6 +402,8 @@ And now I (think I) can say that my SplitWave is done!
 Fortunately it was a mini flood and water went down completety by today
 morning. Electricity came yesterday at 12:30 at night ig.
 
+*2hrs*
+
 ### Back to Journalling
 haah.... I am back again... Now again I made some small changes to the silkscreens and am working on the README.md at the same time.
 The Images of the Silkscreen closer up:
@@ -419,4 +421,7 @@ The Images of the Silkscreen closer up:
   </tr>
 </table>
 
-**Total Time Taken: 2Hrs**
+I am done with the README and there's nothing more I think that I need to do now.
+I hope this time finally the SplitWave is done.
+
+**Total Time Taken: 3Hrs**
