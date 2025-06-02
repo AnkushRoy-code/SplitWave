@@ -424,4 +424,6 @@ The Images of the Silkscreen closer up:
 I am done with the README and there's nothing more I think that I need to do now.
 I hope this time finally the SplitWave is done.
 
+Just got to know that I will have to journal the making process too irl! I mean I take that as a win for me!!! I really liked journalling this entire project till now!!! So that just means I'll be here for more time :)
+
 **Total Time Taken: 3Hrs**
