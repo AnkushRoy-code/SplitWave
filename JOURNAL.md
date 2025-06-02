@@ -396,11 +396,27 @@ I think it was mandatory) but here it is:
   </tr>
 </table>
 
-
 And now I (think I) can say that my SplitWave is done!
 
 ### Yapping
 Fortunately it was a mini flood and water went down completety by today
 morning. Electricity came yesterday at 12:30 at night ig.
+
+### Back to Journalling
+haah.... I am back again... Now again I made some small changes to the silkscreens and am working on the README.md at the same time.
+The Images of the Silkscreen closer up:
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/177b656c-70c9-4e8e-9a16-660615c9aa72" alt="left pcb image" width="300"/><br>
+      <b>Front Silkscreen</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/6fd35721-c5e1-4f89-9ca6-705594ee9bad" alt="right pcb image" width="300"/><br>
+      <b>Back Silkscreen</b>
+    </td>
+  </tr>
+</table>
 
 **Total Time Taken: 2Hrs**
