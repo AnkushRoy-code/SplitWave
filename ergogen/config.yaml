@@ -203,9 +203,9 @@ outlines:
         - ref: matrix_inner_top
           shift: [0.55px + 1, 0.55py]
         - ref: matrix_inner_home
-          shift: [0.55px + 1, -0.55py + 1]
+          shift: [0.55px + 1, -1.55py + 1]
         - ref: matrix_inner_home
-          shift: [1.5px + 3.7, -0.55py + 1]
+          shift: [1.5px + 3.7, -1.55py + 1]
 
         - ref: thumbs_four_cluster
           shift: [-0.35px, 0.55py + 1]

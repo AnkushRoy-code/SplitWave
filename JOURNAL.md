@@ -5,7 +5,7 @@ description: "A Split Ergonomic Keyboard"
 created_at: "2025-05-25"
 ---
 
-# Total Time: 37Hrs
+# Total Time: 39Hrs
 
 ## 25th May 2025 - Research
 
@@ -334,12 +334,22 @@ bit feverish today... good night to me.
 ## 1st June 2025 - Finished!!!
 
 ### Yapping
-I am making this(probably last) journal entry from my phone because my laptop just ran out of battery and I forgot to make the journal. We're experiencing flood so there's no electricity my mobile also has like very less so I will make it quick, read the submitting guide one last time and then hopefully submit. I don't know when I will be able to check the results though, last year electricity was cutt off for a whole week...
+I am making this(probably last) journal entry from my phone because my laptop
+just ran out of battery and I forgot to make the journal. We're experiencing
+flood so there's no electricity my mobile also has like very less so I will
+make it quick, read the submitting guide one last time and then hopefully
+submit. I don't know when I will be able to check the results though, last year
+electricity was cutt off for a whole week...
 
 ### Journalling
-So today I just made my firmware using ZMK it was not hard, it compiled without any warning or errors but I am not sure if it will work yet until I have the mcu. 
+So today I just made my firmware using ZMK it was not hard, it compiled without
+any warning or errors but I am not sure if it will work yet until I have the
+mcu. 
 
-ZMK took a lot of brain. Read the docs a lot. Most of the stuff are ditto same to their docs only. Other than that I also went through the source code of ZMK searching for other Shields for reference, other than that I also took some references from a keyboard named caldera.
+ZMK took a lot of brain. Read the docs a lot. Most of the stuff are ditto same
+to their docs only. Other than that I also went through the source code of ZMK
+searching for other Shields for reference, other than that I also took some
+references from a keyboard named caldera.
 
 The links are as follows:
 https://github.com/christianselig/caldera-keyboard
@@ -352,6 +362,27 @@ https://github.com/AnkushRoy-code/zmk-config-splitwave/tree/main
 And the built firmware is here:
 https://github.com/AnkushRoy-code/zmk-config-splitwave/actions/runs/15375124402
 
-That is it all! I am really happy I have made the effort in Journalling this whole journey. I hope I can execute the final building of the keyboard when the parts arrive!
+That is it all! I am really happy I have made the effort in Journalling this
+whole journey. I hope I can execute the final building of the keyboard when the
+parts arrive!
 
 **Total Time Taken: 4hrs**
+
+*Total Time Till now: 37hrs*
+
+## 2nd June 2025 - Customising
+I should've waited before submitting... anyway I just remembered something. I
+DID NOT HAVE ANY COOL SILKSCREEN DRAWINGS!! So I hopped back in the kicad and
+fixed it. Included HC logos and personal name flexing on the board. Made a smol
+change to the top_case so that there is space to see the silkscreens :) also
+made things less messed up by adding a git ignore and adding the zmk-config as
+a submodule. Also I remembered that I didn't include the PCB-3D view (not that
+I think it was mandatory) but here it is:
+
+And now I (think I) can say that my SplitWave is done!
+
+### Yapping
+Fortunately it was a mini flood and water went down completety by today
+morning. Electricity came yesterday at 12:30 at night ig.
+
+**Total Time Taken: 2Hrs**
