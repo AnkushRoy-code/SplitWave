@@ -1,6 +1,3 @@
-ergogen/output/cases/*.jscad
-ergogen/output/pcbs
-ergogen/output/outlines
-ergogen/pcb/*
+ergogen/output
 pcb/*
 !pcb/*.kicad_pcb
