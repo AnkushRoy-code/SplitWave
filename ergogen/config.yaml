@@ -307,7 +307,13 @@ outlines:
   keys:
     - what: rectangle
       where: true
-      size: [16, 16]
+      size: [14, 14]
+      fillet: 0
+
+  key_cutout:
+    - name: top
+    - operation: subtract
+      name: keys
 
 pcbs:
   board:
@@ -414,10 +420,10 @@ cases:
 
   _outer_wall:
     - name: xl_board_left
-      extrude: 10
+      extrude: 12
   _inner_wall:
     - name: board_left
-      extrude: 10
+      extrude: 12
   _wall:
     - what: case
       name: _outer_wall
@@ -426,32 +432,18 @@ cases:
       name: _inner_wall
       operation: subtract
 
-  _outer_wall_open:
-    - name: xl_board_left
-      extrude: 5.6
-  _inner_wall_open:
-    - name: board_left
-      extrude: 5.6
-  _wall_open:
-    - what: case
-      name: _outer_wall_open
-      operation: add
-    - what: case
-      name: _inner_wall_open
-      operation: subtract
-
   # cutout for the keys
   _keys_cutout:
-    - name: keys
+    - name: key_cutout
       extrude: 1.2
 
   # holes for the screws
   _holes:
     - name: mounting
-      extrude: 8.4
+      extrude: 9.2
   _standoffs:
     - name: standoff
-      extrude: 8.4
+      extrude: 9.2
 
   _holes_top:
     - name: mounting_top_case
@@ -460,20 +452,11 @@ cases:
     - name: standoff_top_case
       extrude: 1.2
 
-  _holes_open:
-    - name: mounting
-      extrude: 4
-  _standoffs_open:
-    - name: standoff
-      extrude: 4
 
   top_case:
     - what: case
-      name: _top
-      operation: add
-    - what: case
       name: _keys_cutout
-      operation: subtract
+      operation: add
 
     - what: case
       name: _standoffs_top
@@ -496,6 +479,27 @@ cases:
     - what: case
       name: _wall
       operation: add
+
+  _outer_wall_open:
+    - name: xl_board_left
+      extrude: 5.6
+  _inner_wall_open:
+    - name: board_left
+      extrude: 5.6
+  _wall_open:
+    - what: case
+      name: _outer_wall_open
+      operation: add
+    - what: case
+      name: _inner_wall_open
+      operation: subtract
+
+  _holes_open:
+    - name: mounting
+      extrude: 4
+  _standoffs_open:
+    - name: standoff
+      extrude: 4
 
   open_case:
     - what: case
