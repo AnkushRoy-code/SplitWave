@@ -2,4 +2,5 @@ ergogen/output/cases/*.jscad
 ergogen/output/pcbs
 ergogen/output/outlines
 ergogen/pcb/*
-!ergogen/pcb/*.kicad_pcb
+pcb/*
+!pcb/*.kicad_pcb
