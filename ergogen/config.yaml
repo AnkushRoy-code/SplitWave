@@ -16,8 +16,9 @@ units:
 
   # case wall width = dp(x/y) - p(x/y)
 
-  screw_size: 1.85
-  standoff_size: 3 # screw outer radius
+  screw_hole_size: 1.5 # screw hole size (actually 1mm)
+  screw_size: 1.85 # screw insert inner rad
+  standoff_size: 3 # screw insert outer rad
 
   $default_width: cx
   $default_height: cy
@@ -253,18 +254,6 @@ outlines:
         ref: matrix_ring_home
         shift: [0.45px, 0.4px]
 
-  mounting_top_case: # the top will be mounted by only 2 screws, just to keep it in place
-    - what: circle
-      radius: screw_size
-      where: 
-        ref: matrix_ring_bottom
-        shift: [0.45px, -1px]
-    - what: circle
-      radius: screw_size
-      where: 
-        ref: thumbs_three_cluster
-        shift: [0, 0.8px]
-
   standoff: # mounting screw outer
     - what: circle
       radius: standoff_size
@@ -294,12 +283,12 @@ outlines:
 
   standoff_top_case:
     - what: circle
-      radius: standoff_size
+      radius: screw_hole_size
       where: 
         ref: matrix_ring_bottom
         shift: [0.45px, -1px]
     - what: circle
-      radius: standoff_size
+      radius: screw_hole_size
       where: 
         ref: thumbs_three_cluster
         shift: [0, 0.8px]
@@ -420,10 +409,10 @@ cases:
 
   _outer_wall:
     - name: xl_board_left
-      extrude: 12
+      extrude: 15
   _inner_wall:
     - name: board_left
-      extrude: 12
+      extrude: 15
   _wall:
     - what: case
       name: _outer_wall
@@ -445,9 +434,6 @@ cases:
     - name: standoff
       extrude: 9.2
 
-  _holes_top:
-    - name: mounting_top_case
-      extrude: 1.2
   _standoffs_top:
     - name: standoff_top_case
       extrude: 1.2
@@ -460,9 +446,6 @@ cases:
 
     - what: case
       name: _standoffs_top
-      operation: add
-    - what: case
-      name: _holes_top
       operation: subtract
 
   bottom_case:
