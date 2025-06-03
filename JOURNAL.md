@@ -424,6 +424,17 @@ The Images of the Silkscreen closer up:
 I am done with the README and there's nothing more I think that I need to do now.
 I hope this time finally the SplitWave is done.
 
-Just got to know that I will have to journal the making process too irl! I mean I take that as a win for me!!! I really liked journalling this entire project till now!!! So that just means I'll be here for more time :)
+Just got to know that I will have to journal the making process too irl! I mean
+I take that as a win for me!!! I really liked journalling this entire project
+till now!!! So that just means I'll be here for more time :)
 
 **Total Time Taken: 3Hrs**
+
+## 3nd June 2025 - Customising
+Yesterday I read about the ["Shipping"](https://highway.hackclub.com/advanced/shipping) requirement, I think I am preety much 
+there but these are the things I will do first:
+
+- Change the file structure to have the pcb and cases in the root.
+- Create a printables account and upload my 3d files there. and add them in the readme
+
+Also changed the 3d Cases a little. I am really sleepy rn. will updaet this part tomorrow
