@@ -44,6 +44,7 @@ The KiCAD PCB file is located [here](https://github.com/AnkushRoy-code/SplitWave
 
 ## Case
 The STL files for SplitWave are present [here](https://github.com/AnkushRoy-code/SplitWave/tree/main/ergogen/output/cases).
+The cases are also hosted in printables.com [here](https://www.printables.com/model/1317576-splitwave-split-keyboard-cases)
 
 <table>
   <tr>
