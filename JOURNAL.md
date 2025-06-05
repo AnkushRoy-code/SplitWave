@@ -499,5 +499,7 @@ heights for the new smaller battery.
 I will now just buy the screws and battery jack. But not that fast. I will wait
 till tomorrow. just cause
 
+hah... couldn't wait. Also bought the jack. Only thing left is screws. I am
+having internet problems rn so I will tackle that tomorrow.
 **Total Time Taken 4hrs**
 *Total Time Till Now: 45hrs*
