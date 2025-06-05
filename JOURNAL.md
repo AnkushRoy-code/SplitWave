@@ -458,4 +458,31 @@ Thank god I found them and fixed them. The updated cases are as follows:
 **Total Time Taken: 1hrs**
 *Total Time Till Now: 41hrs*
 
-No real work done, just a update. YOU KNOW WHAT!!!! MY PROJECT JUST GOT APPROVED!!! I'LL RECEIVE THE GRANT BY TODAY SO I'LL GO IN A SHOPPING SPREE TOMORROW!!!! I AM SOO EXCITED!!!!
+No real work done, just a update. YOU KNOW WHAT!!!! MY PROJECT JUST GOT
+APPROVED!!! I'LL RECEIVE THE GRANT BY TODAY (4th June) SO I'LL GO IN A SHOPPING
+SPREE TOMORROW!!!! I AM SOO EXCITED!!!!
+
+## 5nd June 2025 - Shopping Real this time
+
+I just bought my stuff from Typeractive.xyz all of them costed $76.92 almost
+half a dollar less than calculated ($77.34), inflation in India I think.
+Also bought the supermini-nrf52840 from holykeebs. They are trusted site I saw
+in many reviews.
+Next I was going to buy the batteries....but I think makerbazar.in is not
+trustable. I went through some reviews and didn't find them to be good with
+quality and delivery. Customer support also seemed bad, I think I will have to
+search for batteries again. It must be the 4th time something like this has
+happened to me with battery buying. It also means I will have to change my case
+according to the battery size....
+
+Took me a whole day but I finally found a good vendor. And I ordered it. Quite
+the same price for 480mah where they sold 2200mah for this price. I think that
+previously it was indeed scam. But there's a problem. There was some technical
+dificulties and in their website it still shows payment pending. I have raised
+a ticket. Hopefully they reply soon.
+
+Apart from that I also ordered the pcb. For that I had to fix some violations
+that I ignored earlier in my pcb design. Now they are fixed. The payment went
+smoothly and my pcb is approved already.
+
+*3hrs*

@@ -1,14 +1,15 @@
-Index,Name,Model,Quantity,Shop,Price,Accumulated Price,Shipping + Tax,Total Price,Link,
-1,MicroController,SuperMini nRF52840,2,HolyKeebs,$10,$20,$10,$30,https://holykeebs.com/products/supermini-nrf52840,
-2,Key Switches,Kailh Choc v1 Switches (Choc Red) (10),5,Typeractive,$5.85,$29.27,Free,$29.27,https://typeractive.xyz/products/choc-switches?variant=45741919240423,
-3,Key Caps,Chocfox CFX Choc Blank Keycaps (10),5,Typeractive,$4.69,$23.46,Free,$23.46,https://typeractive.xyz/products/mbk-keycaps?_pos=1&_psq=keycaps&_ss=e&_v=1.0,
-4,Hot Swap Sockets,Kailh Choc PG1350 Hot Swap Sockets (10),5,Typeractive,$2.35,$11.73,Free,$11.73,https://typeractive.xyz/products/hotswap-sockets?_pos=1&_psq=hot&_ss=e&_v=1.0,
-5,Power Switch,Power Switch Slider (2),1,Typeractive,$2.34,$2.34,Free,$2.34,https://typeractive.xyz/products/power-switch,
-6,Reset Button,Panasonic miniature momentary button,1,Typeractive,$2.34,$2.34,Free,$2.34,https://typeractive.xyz/products/reset-button?variant=45597784932583,
-7,Battery Jack,JST PH 2.0mm,2,Typeractive,$1.17,$2.34,Free,$2.34,https://typeractive.xyz/products/battery-jack?_pos=1&_sid=66ae02c58&_ss=r,
-8,Diodes,SMD Diodes (10),5,Typeractive,$1.17,$5.86,Free,$5.86,https://typeractive.xyz/products/smd-diodes?_pos=1&_psq=smd&_ss=e&_v=1.0,
-9,Battery,3.7V 2500mAH Li-Po Rechargeable,2,MakerBazar,$3.50,$7,$1,$8,https://makerbazar.in/products/3-7v-2200mah-li-po-rechargeable-battery,
-10,PCB,JLCPCB (150x110mm) (minimum 5),5,JLCPCB,$10.5,$10.5,$12,$22.5,https://jlcpcb.com/,
-11,Case,Top and Bottom,2,3Ding,$8.18,$8.18,Free,$8.18,https://www.3ding.in/,
-12,Screws,Inserts(M2X3) and Round Head(M2X4/10),20,OnlyScrews,$2,$2,$2,$4,https://onlyscrews.in,
-,,,,,Grand Total:,$124.02,$25,$150.02,,
+Index,Name,Model,Quantity,Shop,Price,Accumulated Price,Shipping + Tax,Total Price,Merchant Total Price,Bought Price,Difference,Link
+1,MicroController,SuperMini nRF52840,2,HolyKeebs,$10.00,$20.00,$10.00,$30.00,$30.00,$30.00,$0,https://holykeebs.com/products/supermini-nrf52840
+2,Key Switches,Kailh Choc v1 Switches (Choc Red) (10),5,Typeractive,$5.85,$29.27,$0.00,$29.27,,,,https://typeractive.xyz/products/choc-switches?variant=45741919240423
+3,Key Caps,Chocfox CFX Choc Blank Keycaps (10),5,Typeractive,$4.69,$23.46,$0.00,$23.46,,,,https://typeractive.xyz/products/mbk-keycaps?_pos=1&_psq=keycaps&_ss=e&_v=1.0
+4,Hot Swap Sockets,Kailh Choc PG1350 Hot Swap Sockets (10),5,Typeractive,$2.35,$11.73,$0.00,$11.73,,,,https://typeractive.xyz/products/hotswap-sockets?_pos=1&_psq=hot&_ss=e&_v=1.0
+5,Power Switch,Power Switch Slider (2),1,Typeractive,$2.34,$2.34,$0.00,$2.34,,,,https://typeractive.xyz/products/power-switch
+6,Reset Button,Panasonic miniature momentary button,1,Typeractive,$2.34,$2.34,$0.00,$2.34,,,,https://typeractive.xyz/products/reset-button?variant=45597784932583
+7,Battery Jack,JST PH 2.0mm,2,Typeractive,$1.17,$2.34,$0.00,$2.34,,,,https://typeractive.xyz/products/battery-jack?_pos=1&_sid=66ae02c58&_ss=r
+8,Diodes,SMD Diodes (10),5,Typeractive,$1.17,$5.86,$0.00,$5.86,$77.34,$76.92,-$0.42,https://typeractive.xyz/products/smd-diodes?_pos=1&_psq=smd&_ss=e&_v=1.0
+9,Battery,3.7V 480mAh Li-Po Rechargeable,2,roboticsdna,$3.44,$6.88,$0.81,$7.69,$7.69,$8.03,+$0.34,https://roboticsdna.in/product/3-7v-480mah-kp50203-2-pin-connector-lipo-battery-r-41166073-single-cell-lithium-polymer-battery/
+10,Battery Connector,Female Battery Connector JST PH 2mm (min 10),10,sunrom,$0.07,$0.7,$1.09,$1.79,$1.79,,,https://www.sunrom.com/m/6368
+11,PCB,JLCPCB (150x110mm) (minimum 5),5,JLCPCB,$10.50,$10.50,$12.00,$22.50,$22.50,$17.40,-$5.1,https://jlcpcb.com/
+12,Case,Top and Bottom,2,3Ding,$8.18,$8.18,$0.00,$8.18,$8.18,,,https://www.3ding.in/
+13,Screws,Inserts(M2X3) and Round Head(M2X4/10),20,OnlyScrews,$2.00,$2.00,$2.00,$4.00,$4.00,,,https://onlyscrews.in
+,,,,Grand Total:,$54.09,$125.02,$25.00,$151.50,$151.50,$132.35,+$5.18,
