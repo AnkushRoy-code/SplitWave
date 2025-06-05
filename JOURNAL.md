@@ -486,3 +486,18 @@ that I ignored earlier in my pcb design. Now they are fixed. The payment went
 smoothly and my pcb is approved already.
 
 *3hrs*
+
+Yay!! They have confirmed my order!! I knew they were good people!
+
+Also got to know that I am not supposed to order the cases. So I am extra happy
+that I can now just save $8 for myself. Lemme see if I need something else. Aah
+yes a screw driver, if I have enough money... and they are cheap like not more
+than $2
+
+I am done with my updated case. It looks absolutely the same. Just changed some
+heights for the new smaller battery.
+I will now just buy the screws and battery jack. But not that fast. I will wait
+till tomorrow. just cause
+
+**Total Time Taken 4hrs**
+*Total Time Till Now: 45hrs*

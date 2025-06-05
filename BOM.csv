@@ -12,4 +12,4 @@ Index,Name,Model,Quantity,Shop,Price,Accumulated Price,Shipping + Tax,Total Pric
 11,PCB,JLCPCB (150x110mm) (minimum 5),5,JLCPCB,$10.50,$10.50,$12.00,$22.50,$22.50,$17.40,-$5.1,https://jlcpcb.com/
 12,Case,Top and Bottom,2,3Ding,$8.18,$8.18,$0.00,$8.18,$8.18,,,https://www.3ding.in/
 13,Screws,Inserts(M2X3) and Round Head(M2X4/10),20,OnlyScrews,$2.00,$2.00,$2.00,$4.00,$4.00,,,https://onlyscrews.in
-,,,,Grand Total:,$54.09,$125.02,$25.00,$151.50,$151.50,$132.35,+$5.18,
+,,,,Grand Total:,$54.09,$125.02,$25.00,$151.50,$151.50,$132.35,-$5.18,

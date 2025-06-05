@@ -281,7 +281,7 @@ outlines:
         ref: matrix_ring_home
         shift: [0.45px, 0.4px]
 
-  standoff_top_case:
+  holes_top_case:
     - what: circle
       radius: screw_hole_size
       where: 
@@ -396,9 +396,6 @@ pcbs:
 
 cases:
   # flat bottom
-  _bottom:
-    - name: board_left
-      extrude: 1.2
   _xl_bottom:
     - name: xl_board_left
       extrude: 1.2
@@ -409,10 +406,10 @@ cases:
 
   _outer_wall:
     - name: xl_board_left
-      extrude: 15
+      extrude: 13
   _inner_wall:
     - name: board_left
-      extrude: 15
+      extrude: 13
   _wall:
     - what: case
       name: _outer_wall
@@ -429,15 +426,14 @@ cases:
   # holes for the screws
   _holes:
     - name: mounting
-      extrude: 9.2
+      extrude: 8.2
   _standoffs:
     - name: standoff
-      extrude: 9.2
+      extrude: 8.2
 
-  _standoffs_top:
-    - name: standoff_top_case
+  _holes_top:
+    - name: holes_top_case
       extrude: 1.2
-
 
   top_case:
     - what: case
@@ -445,7 +441,7 @@ cases:
       operation: add
 
     - what: case
-      name: _standoffs_top
+      name: _holes_top
       operation: subtract
 
   bottom_case:
@@ -463,38 +459,38 @@ cases:
       name: _wall
       operation: add
 
-  _outer_wall_open:
-    - name: xl_board_left
-      extrude: 5.6
-  _inner_wall_open:
-    - name: board_left
-      extrude: 5.6
-  _wall_open:
-    - what: case
-      name: _outer_wall_open
-      operation: add
-    - what: case
-      name: _inner_wall_open
-      operation: subtract
-
-  _holes_open:
-    - name: mounting
-      extrude: 4
-  _standoffs_open:
-    - name: standoff
-      extrude: 4
-
-  open_case:
-    - what: case
-      name: _standoffs_open
-      operation: add
-    - what: case
-      name: _holes_open
-      operation: subtract
-
-    - what: case
-      name: _xl_bottom
-      operation: add
-    - what: case
-      name: _wall_open
-      operation: add
+  # _outer_wall_open:
+  #   - name: xl_board_left
+  #     extrude: 5.6
+  # _inner_wall_open:
+  #   - name: board_left
+  #     extrude: 5.6
+  # _wall_open:
+  #   - what: case
+  #     name: _outer_wall_open
+  #     operation: add
+  #   - what: case
+  #     name: _inner_wall_open
+  #     operation: subtract
+  #
+  # _holes_open:
+  #   - name: mounting
+  #     extrude: 4
+  # _standoffs_open:
+  #   - name: standoff
+  #     extrude: 4
+  #
+  # open_case:
+  #   - what: case
+  #     name: _standoffs_open
+  #     operation: add
+  #   - what: case
+  #     name: _holes_open
+  #     operation: subtract
+  #
+  #   - what: case
+  #     name: _xl_bottom
+  #     operation: add
+  #   - what: case
+  #     name: _wall_open
+  #     operation: add
