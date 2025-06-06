@@ -503,3 +503,12 @@ hah... couldn't wait. Also bought the jack. Only thing left is screws. I am
 having internet problems rn so I will tackle that tomorrow.
 **Total Time Taken 4hrs**
 *Total Time Till Now: 45hrs*
+
+## 6th June 2025
+
+I am soo soooooo dumb. There has to be two bottom cases. Right and left!! I
+can't just turn the bottom case over and call it a day 😭😭😭
+
+Done with the cases. Also tried to buy the screws.... I can't IG they don't
+support international cards.
+

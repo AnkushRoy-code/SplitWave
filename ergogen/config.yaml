@@ -17,8 +17,8 @@ units:
   # case wall width = dp(x/y) - p(x/y)
 
   screw_hole_size: 1.5 # screw hole size (actually 1mm)
-  screw_size: 1.85 # screw insert inner rad
-  standoff_size: 3 # screw insert outer rad
+  screw_size: 1.5 # screw insert inner rad
+  standoff_size: 2.7 # screw insert outer rad
 
   $default_width: cx
   $default_height: cy
