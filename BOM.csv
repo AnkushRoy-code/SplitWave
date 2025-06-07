@@ -10,5 +10,10 @@ Index,Name,Model,Quantity,Shop,Price,Accumulated Price,Shipping + Tax,Total Pric
 9,Battery,3.7V 480mAh Li-Po Rechargeable,2,roboticsdna,$3.44,$6.88,$0.81,$7.69,$7.69,$8.03,+$0.34,https://roboticsdna.in/product/3-7v-480mah-kp50203-2-pin-connector-lipo-battery-r-41166073-single-cell-lithium-polymer-battery/
 10,Battery Connector,Female Battery Connector JST PH 2mm (min 10),10,sunrom,$0.07,$0.70,$1.09,$1.79,$1.79,$1.78,-$0.01,https://www.sunrom.com/m/6368
 11,PCB,JLCPCB (150x110mm) (minimum 5),5,JLCPCB,$10.50,$10.50,$12.00,$22.50,$22.50,$17.40,-$5.10,https://jlcpcb.com/
-12,Screws,Inserts(M2X3) and Round Head(M2X4/10),20,OnlyScrews,$2.00,$2.00,$2.00,$4.00,$4.00,,,https://onlyscrews.in
-,,,,Grand Total:,$45.92,$117.42,$25.90,$143.32,$143.32,$134.13,-$5.00,
+,,,,Grand Total:,$43.92,$115.42,$23.90,$139.32,$139.32,$134.13,-$5.00,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,These Are free Or I will pay for them,,,,,,,,,,
+12,3D-Prints,Probably Print Legion,4,Slack,$0,$0,$0,$0,$0,$0,$0,
+13,Screws,Inserts(M2X3) and Round Head(M2X4/10),20,OnlyScrews,$2.00,$2.00,$2.00,$4.00,$4.00,,,https://onlyscrews.in

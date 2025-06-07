@@ -406,10 +406,10 @@ cases:
 
   _outer_wall:
     - name: xl_board_left
-      extrude: 13
+      extrude: 15
   _inner_wall:
     - name: board_left
-      extrude: 13
+      extrude: 15
   _wall:
     - what: case
       name: _outer_wall
