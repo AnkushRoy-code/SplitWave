@@ -511,14 +511,3 @@ can't just turn the bottom case over and call it a day 😭😭😭
 
 Done with the cases. Also tried to buy the screws.... I can't IG they don't
 support international cards.
-
-## 7th June - Ending
-
-I do not think I can continue with making my keyboard anymore. The reason? Customs.
-I didn't know Typeractive do not cover customs. I will not be able to cover the
-customs myself and I don't think HC can help me either.
-
-This is the end. It was a nice journey but I was just few hours late in asking
-for cancellation. The customs can be ranging from 68% to 110% based on luck.
-That in dollars is like $53 to $85, my family earns a total of $58 monthly.
-
