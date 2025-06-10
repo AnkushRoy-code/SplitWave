@@ -56,8 +56,13 @@ The cases are also hosted in printables.com [here](https://www.printables.com/mo
       <img src="https://github.com/user-attachments/assets/bcb9879a-e507-4541-a275-25d90300118a" alt="bottom case image" width="300"/><br>
       <b>Bottom Case</b>
     </td>
+        <td align="center">
+      <img src="https://github.com/user-attachments/assets/3ddfc4c5-8d75-41bf-9f1a-af222884b979" alt="all the cases together" width="300"/><br>
+      <b>All of them together</b>
+    </td>
   </tr>
 </table>
+![2025-06-10_21-58]()
 
 ## Firmware
 The firmware used for SplitWave is [ZMK](https://zmk.dev) and the prebuilt firmware can be found in the actions page of [this](https://github.com/AnkushRoy-code/zmk-config-splitwave) repo that I made.
