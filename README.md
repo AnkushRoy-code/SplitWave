@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bc027052-61be-4896-ba92-261f88d98a89" alt="cool image of splitwave taken from fontawesome" /><br>
+  <img src="https://github.com/user-attachments/assets/892ccf2b-5d3c-44c5-9624-7379cf9273d3" alt="cool image of splitwave taken from fontawesome" /><br>
 </p>
 
 # SplitWave
