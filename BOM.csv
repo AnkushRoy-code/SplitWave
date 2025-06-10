@@ -12,8 +12,6 @@ Index,Name,Model,Quantity,Shop,Price,Accumulated Price,Shipping + Tax,Total Pric
 11,PCB,JLCPCB (150x110mm) (minimum 5),5,JLCPCB,$10.50,$10.50,$12.00,$22.50,$22.50,$17.40,-$5.10,https://jlcpcb.com/
 ,,,,Grand Total:,$43.92,$115.42,$23.90,$139.32,$139.32,$134.13,-$5.00,
 ,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
 ,,These Are free Or I will pay for them,,,,,,,,,,
 12,3D-Prints,Probably Print Legion,4,Slack,$0,$0,$0,$0,$0,$0,$0,
 13,Screws,Inserts(M2X3) and Round Head(M2X4/10),20,OnlyScrews,$2.00,$2.00,$2.00,$4.00,$4.00,,,https://onlyscrews.in

@@ -62,7 +62,6 @@ The cases are also hosted in printables.com [here](https://www.printables.com/mo
     </td>
   </tr>
 </table>
-![2025-06-10_21-58]()
 
 ## Firmware
 The firmware used for SplitWave is [ZMK](https://zmk.dev) and the prebuilt firmware can be found in the actions page of [this](https://github.com/AnkushRoy-code/zmk-config-splitwave) repo that I made.

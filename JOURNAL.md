@@ -511,3 +511,13 @@ can't just turn the bottom case over and call it a day 😭😭😭
 
 Done with the cases. Also tried to buy the screws.... I can't IG they don't
 support international cards.
+
+## 10th June 2025
+
+I've made some small changes over the days that I didn't journal like adding
+another 2mm to my case height to accomodate the switch height.
+
+Taking pictures for it. Updating stuff. Keeping track of items that I ordered.
+
+I have made plans to add homerow mods to my keyboard! Now it will be even more
+cool with timeless modkey
