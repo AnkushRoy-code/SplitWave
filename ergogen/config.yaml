@@ -426,10 +426,10 @@ cases:
   # holes for the screws
   _holes:
     - name: mounting
-      extrude: 8.2
+      extrude: 7.2
   _standoffs:
     - name: standoff
-      extrude: 8.2
+      extrude: 7.2
 
   _holes_top:
     - name: holes_top_case

@@ -521,3 +521,23 @@ Taking pictures for it. Updating stuff. Keeping track of items that I ordered.
 
 I have made plans to add homerow mods to my keyboard! Now it will be even more
 cool with timeless modkey
+
+## 15th June 2025 - Giving up
+
+A lot has had happened. I was really lost. I felt really guilty. I still do.
+Because I fucked up. I had assumed that I will be lucky with them but I was
+proven wrong because of the JLCPCB having a tax of about $18 on $17 order. I
+was heartbroken thinking all my hardwork was for nothing I cried a little. I
+talked with Hackclub people and told them that I will be dropping out of the
+event because I will not be able to pay my taxes. They are a lot. 
+
+But the are so kind that they said they will pay my taxes. Even though the do
+not do it. They said that they will make it a exception because they liked the
+love and effort I put in Splitwave. I still do not know how much customs in the
+$75 order but I still hope for the best.
+
+Right now I am finishing up my cases. I am making the USB-C port hole and the
+buttons holes too.
+
+Other than that I also have recieved the Jacks & batteries. The JLCPCB should
+also come quiet fast now.
