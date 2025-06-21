@@ -5,7 +5,7 @@ description: "A Split Ergonomic Keyboard"
 created_at: "2025-05-25"
 ---
 
-# Total Time: 45Hrs
+# Total Time: 47Hrs
 
 ## 25th May 2025 - Research
 
@@ -512,6 +512,8 @@ can't just turn the bottom case over and call it a day 😭😭😭
 Done with the cases. Also tried to buy the screws.... I can't IG they don't
 support international cards.
 
+**Negligible Time**
+
 ## 10th June 2025
 
 I've made some small changes over the days that I didn't journal like adding
@@ -521,6 +523,8 @@ Taking pictures for it. Updating stuff. Keeping track of items that I ordered.
 
 I have made plans to add homerow mods to my keyboard! Now it will be even more
 cool with timeless modkey
+
+**Negligible Time**
 
 ## 15th June 2025 - Giving up
 
@@ -541,3 +545,27 @@ buttons holes too.
 
 Other than that I also have recieved the Jacks & batteries. The JLCPCB should
 also come quiet fast now.
+
+**Total Time Taken 0.5hrs**
+*Total Time Till Now: 45.5hrs*
+
+## 21st June 2025 - 
+
+Today I plan modify my case again to make holder for battery :) 
+
+I am done with fully updating my cases took a while, had fun! Will take images now.
+Things I did:
+    - Add Battery Holder
+    - Re-did the art in the bottom because earlier it was 0.5mm and someone
+      adviced me to have multiple of 0.2 because that is what most 3D printers
+      support.
+
+Also did I mention almost all my stuff came! Only things left are Typeractive
+stuff and Microcontrollers. The things that Splitwave heavily depends upon!
+
+I just pray for less customs!
+
+I love staring at the PCBs they are SOOOO COOOOOOLLLLLL!!!!!!!!!!!!!
+
+**Total Time Taken 1.5hrs**
+*Total Time Till Now: 47hrs*
