@@ -53,12 +53,18 @@ The cases are also hosted in printables.com [here](https://www.printables.com/mo
       <b>Top Case</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/bcb9879a-e507-4541-a275-25d90300118a" alt="bottom case image" width="300"/><br>
-      <b>Bottom Case</b>
+      <img src="https://github.com/user-attachments/assets/5922e3d8-a2ad-4d5b-9a6f-f25777789903" alt="Left & Right Cases Top View" width="300"/><br>
+      <b>Left & Right Cases Top View</b>
     </td>
-        <td align="center">
-      <img src="https://github.com/user-attachments/assets/3ddfc4c5-8d75-41bf-9f1a-af222884b979" alt="all the cases together" width="300"/><br>
-      <b>All of them together</b>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/cfb8c1d5-6765-4de8-899f-0eefc02ce3a5" alt="Left & Right Cases Bottom View" width="300"/><br>
+      <b>Left & Right Cases Bottom View</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/c213c3f0-e9c0-4421-98d6-e422c4f2c255" alt="All Of Them Together" width="300"/><br>
+      <b>All Of Them Together</b>
     </td>
   </tr>
 </table>

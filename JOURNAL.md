@@ -554,11 +554,30 @@ also come quiet fast now.
 Today I plan modify my case again to make holder for battery :) 
 
 I am done with fully updating my cases took a while, had fun! Will take images now.
+
 Things I did:
-    - Add Battery Holder
-    - Re-did the art in the bottom because earlier it was 0.5mm and someone
-      adviced me to have multiple of 0.2 because that is what most 3D printers
-      support.
+
+- Add Battery Holder
+- Re-did the art in the bottom because earlier it was 0.5mm and someone
+  adviced me to have multiple of 0.2 because that is what most 3D printers
+  support.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/5922e3d8-a2ad-4d5b-9a6f-f25777789903" alt="Left & Right Cases Top View" width="300"/><br>
+      <b>Left & Right Cases Top View</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/cfb8c1d5-6765-4de8-899f-0eefc02ce3a5" alt="Left & Right Cases Bottom View" width="300"/><br>
+      <b>Left & Right Cases Bottom View</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/c213c3f0-e9c0-4421-98d6-e422c4f2c255" alt="All Of Them Together" width="300"/><br>
+      <b>All Of Them Together</b>
+    </td>
+  </tr>
+</table>
 
 Also did I mention almost all my stuff came! Only things left are Typeractive
 stuff and Microcontrollers. The things that Splitwave heavily depends upon!
