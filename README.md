@@ -49,21 +49,21 @@ The cases are also hosted in printables.com [here](https://www.printables.com/mo
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/ddbc66f0-9e65-4bc9-9bac-a4dadfcedda5" alt="top case image" width="300"/><br>
+      <img src="https://github.com/user-attachments/assets/1f0998a9-cd44-4a47-bd2a-298da881935b" alt="top case image" width="300"/><br>
       <b>Top Case</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/5922e3d8-a2ad-4d5b-9a6f-f25777789903" alt="Left & Right Cases Top View" width="300"/><br>
+      <img src="https://github.com/user-attachments/assets/cf97d706-b153-4e5c-b230-a11705836418" alt="Left & Right Cases Top View" width="300"/><br>
       <b>Left & Right Cases Top View</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/cfb8c1d5-6765-4de8-899f-0eefc02ce3a5" alt="Left & Right Cases Bottom View" width="300"/><br>
+      <img src="https://github.com/user-attachments/assets/d15548ed-12db-4938-bf6f-55a3b49ceb8a" alt="Left & Right Cases Bottom View" width="300"/><br>
       <b>Left & Right Cases Bottom View</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/c213c3f0-e9c0-4421-98d6-e422c4f2c255" alt="All Of Them Together" width="300"/><br>
+      <img src="https://github.com/user-attachments/assets/08b8bdc6-d0dd-42f5-baed-ce1664948572" alt="All Of Them Together" width="300"/><br>
       <b>All Of Them Together</b>
     </td>
   </tr>
