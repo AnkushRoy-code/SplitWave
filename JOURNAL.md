@@ -5,7 +5,7 @@ description: "A Split Ergonomic Keyboard"
 created_at: "2025-05-25"
 ---
 
-# Total Time: 47Hrs
+# Total Time: 52Hrs
 
 ## 25th May 2025 - Research
 
@@ -549,7 +549,7 @@ also come quiet fast now.
 **Total Time Taken 0.5hrs**
 *Total Time Till Now: 45.5hrs*
 
-## 21st June 2025 - 
+## 21st June 2025 - Battery Holder
 
 Today I plan modify my case again to make holder for battery :) 
 
@@ -588,3 +588,33 @@ I love staring at the PCBs they are SOOOO COOOOOOLLLLLL!!!!!!!!!!!!!
 
 **Total Time Taken 1.5hrs**
 *Total Time Till Now: 47hrs*
+
+## 27th June 2025 - Magazine
+
+Today when I got up I got a notification that we have to submit the Magazine
+page by 29th of this month!! The time is very less and I really wanted to get
+my magazine page. So I am gonna do it. Starting with taking good pictures of my
+keyboard.... I really never made the full 3D-model of my keyboard. I mean yes I
+have the case but not all the things together.
+
+So I spent like 2hrs making my keyboard. Scavanging the internet for the parts.
+Placing every part. Then.... I didn't like what I had come up with. Not the
+design. I didn't like the colour combination. It really looked shit. I thought
+that if needed I will change the key-caps colour manually when they come.
+Hopefully acrylic colours work. I will paint the black keycaps to full white.
+
+Anyway tried a lot of colour combinations. For all the cases. And I think I
+will settle down with the black colours because it'll look cool. But for my
+magazine page I will use brigth colours because that will loog good there.
+
+Anyway all this today took like 3hrs of my time or more I think I sat down at
+9am after taking breakfast now it's 1pm
+
+Been making my Magazine page for a while. Now it's 3pm and I am not done yet!
+
+Just now(6pm) I checked and my typeractive parts have arrived very close to me.
+I am sooo osooo fucking happy!!! It was suck for like 5 days. Should reach me
+by a week at the very longest! I am afraid of the taxes.
+
+**Total Time Taken 5hrs**
+*Total Time Till Now: 52hrs*
