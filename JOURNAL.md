@@ -5,7 +5,7 @@ description: "A Split Ergonomic Keyboard"
 created_at: "2025-05-25"
 ---
 
-# Total Time: 54Hrs
+# Total Time: 55Hrs
 
 ## 25th May 2025 - Research
 
@@ -429,6 +429,7 @@ I take that as a win for me!!! I really liked journalling this entire project
 till now!!! So that just means I'll be here for more time :)
 
 **Total Time Taken: 3Hrs**
+
 *Total Time Till Now: 40hrs*
 
 ## 3nd June 2025 - Customising
@@ -456,6 +457,7 @@ Thank god I found them and fixed them. The updated cases are as follows:
 </table>
 
 **Total Time Taken: 1hrs**
+
 *Total Time Till Now: 41hrs*
 
 No real work done, just a update. YOU KNOW WHAT!!!! MY PROJECT JUST GOT
@@ -501,7 +503,9 @@ till tomorrow. just cause
 
 hah... couldn't wait. Also bought the jack. Only thing left is screws. I am
 having internet problems rn so I will tackle that tomorrow.
+
 **Total Time Taken 4hrs**
+
 *Total Time Till Now: 45hrs*
 
 ## 6th June 2025
@@ -547,6 +551,7 @@ Other than that I also have recieved the Jacks & batteries. The JLCPCB should
 also come quiet fast now.
 
 **Total Time Taken 0.5hrs**
+
 *Total Time Till Now: 45.5hrs*
 
 ## 21st June 2025 - Battery Holder
@@ -587,6 +592,7 @@ I just pray for less customs!
 I love staring at the PCBs they are SOOOO COOOOOOLLLLLL!!!!!!!!!!!!!
 
 **Total Time Taken 1.5hrs**
+
 *Total Time Till Now: 47hrs*
 
 ## 27th June 2025 - Magazine
@@ -612,13 +618,22 @@ Anyway all this today took like 3hrs of my time or more I think I sat down at
 
 Been making my Magazine page for a while. Now it's 3pm and I am not done yet!
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6a49ec5b-3995-43ac-a5bd-867532d8c270" alt="image of my magazine page v1" /><br>
+</p>
+
 Just now(6pm) I checked and my typeractive parts have arrived very close to me.
 I am sooo osooo fucking happy!!! It was suck for like 5 days. Should reach me
 by a week at the very longest! I am afraid of the taxes.
 
 Another hour put into the magazine. Almost done I'd say.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f078415c-119d-4c7d-8bd3-44805a8c6fa4" alt="image of my magazine page v2" /><br>
+</p>
+
 **Total Time Taken 6hrs**
+
 *Total Time Till Now: 53hrs*
 
 ## 28th June 2025 - 3D printing
@@ -629,7 +644,22 @@ busy atm. It's okay I can do continue. I am happy he accepted to make mine :)
 Also I am almost done with the Magazine probably will send it today. Thanks to
 the suggestions of @Varun G, @rowyn and @acon!
 
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/473b1c3f-8a0b-47e2-906a-f42fe871aaa2" alt="image of my magazine that I submitted" width="300"/><br>
+      <b>The one I submitted</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/3b10c55b-4644-4d63-99a2-277ace9eb3c4" alt="Left & Right Cases Bottom View" width="300"/><br>
+      <b>The Final Magazine that is staying there<br>It has correct colours</b>
+    </td>
+  </tr>
+</table>
+
 **Total Time Taken 1hrs**
+
 *Total Time Till Now: 54hrs*
 
 ## 29th June 2025 - Crashing
@@ -642,6 +672,7 @@ After some time it seems that someone has moved my signature. Need find criminal
 
 **Making the Journal a day after so no idea of exact time but shouldn't be
 much so not adding it**
+
 *Total Time Till Now: 54hrs*
 
 ## 30th June 2025 - Investigation
@@ -662,5 +693,6 @@ you wrong 🙏!
 Also I might've forgotten to mention but my mcu has also been dispatched to
 Guwahati! It will reach my state from there and it'll be really fast(I think)
 
-**Negligible Time**
-*Total Time Till Now: 54hrs*
+**Total Time Taken 1hrs**
+
+*Total Time Till Now: 55hrs*
