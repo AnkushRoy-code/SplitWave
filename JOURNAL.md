@@ -5,7 +5,7 @@ description: "A Split Ergonomic Keyboard"
 created_at: "2025-05-25"
 ---
 
-# Total Time: 52Hrs
+# Total Time: 54Hrs
 
 ## 25th May 2025 - Research
 
@@ -616,5 +616,51 @@ Just now(6pm) I checked and my typeractive parts have arrived very close to me.
 I am sooo osooo fucking happy!!! It was suck for like 5 days. Should reach me
 by a week at the very longest! I am afraid of the taxes.
 
-**Total Time Taken 5hrs**
-*Total Time Till Now: 52hrs*
+Another hour put into the magazine. Almost done I'd say.
+
+**Total Time Taken 6hrs**
+*Total Time Till Now: 53hrs*
+
+## 28th June 2025 - 3D printing
+
+I asked for @Arnav in slack for making my prints. He accepted but seems to be
+busy atm. It's okay I can do continue. I am happy he accepted to make mine :)
+
+Also I am almost done with the Magazine probably will send it today. Thanks to
+the suggestions of @Varun G, @rowyn and @acon!
+
+**Total Time Taken 1hrs**
+*Total Time Till Now: 54hrs*
+
+## 29th June 2025 - Crashing
+
+They are making an Poster. Everyone it putting their signatures and pictures in
+that and I snucked mine in a cozy place. But I didn't my poor lappy crashed
+multiple times during this. But by the end I managed to do it.
+
+After some time it seems that someone has moved my signature. Need find criminal.
+
+**Making the Journal a day after so no idea of exact time but shouldn't be
+much so not adding it**
+*Total Time Till Now: 54hrs*
+
+## 30th June 2025 - Investigation
+
+The package reached my city. But they seemed to have sent it to some other post
+office by mistake. I went to the city's head post office while returning from
+my school. The said it will reach the Nearmost post office to my village
+tomorrow and will reach me by day-after-tomorrow at the latest. I was
+accompanied by @Shibam Roy to my visit to post office.
+
+I have a backlog of images to add to my journal. Will do them today rn.
+
+I was a little disheartened to know that Arnav started printing the ones that
+were added after mine. But later I got to know that he is doint multiple same
+colour print at the same time to save time. He's a cool guy. Sorry for getting
+you wrong 🙏!
+
+Also I might've forgotten to mention but my mcu has also been dispatched to
+Guwahati! It will reach my state from there and it'll be really fast(I think)
+
+**Negligible Time**
+*Total Time Till Now: 54hrs*
