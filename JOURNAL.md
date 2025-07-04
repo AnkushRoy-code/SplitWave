@@ -696,3 +696,21 @@ Guwahati! It will reach my state from there and it'll be really fast(I think)
 **Total Time Taken 1hrs**
 
 *Total Time Till Now: 55hrs*
+
+## 03th July 2025 - The Fun I had
+
+Today The Typeractive stuff arrived. The PO guy called me and said he will
+deliver it today and hung up. I called him again in anticipation asking him how
+much money I need to pay. He said I won't need to pay anything!!!
+
+I was soo happy I could explode!!
+
+The stuff arrived at like 5pm, couldn't take a good look into it because I had
+to go to tutions. When I came back I assembled it (ofc without any solder,
+because my kit hasn't arrived yet)
+
+IT LOOKS GREAT!! AND THE SWITCHES SOUND SOOOOO DAMN GREAT!!!! I WAS SOO HAPPY I
+EXPLODED TODAY.
+
+**Total Time 1hrs**
+Not adding today's time because it was not towards actual development.
