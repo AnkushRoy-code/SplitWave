@@ -712,5 +712,19 @@ because my kit hasn't arrived yet)
 IT LOOKS GREAT!! AND THE SWITCHES SOUND SOOOOO DAMN GREAT!!!! I WAS SOO HAPPY I
 EXPLODED TODAY.
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/20d46e27-802f-49ef-b406-9bf3b2a5c958" alt="image of my magazine that I submitted" width="300"/><br>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/7d9c54aa-2ed3-4fae-a877-7b18176d654b" alt="Left & Right Cases Bottom View" width="300"/><br>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f2d91107-af0e-4df3-b889-51ce0fa02e7a" alt="Left & Right Cases Bottom View" width="300"/><br>
+    </td>
+  </tr>
+</table>
+
 **Total Time 1hrs**
 Not adding today's time because it was not towards actual development.
