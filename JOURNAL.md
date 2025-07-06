@@ -5,7 +5,7 @@ description: "A Split Ergonomic Keyboard"
 created_at: "2025-05-25"
 ---
 
-# Total Time: 55Hrs
+# Total Time: 56Hrs
 
 ## 25th May 2025 - Research
 
@@ -728,3 +728,31 @@ EXPLODED TODAY.
 
 **Total Time 1hrs**
 Not adding today's time because it was not towards actual development.
+
+*Total Time Till Now: 55hrs*
+
+## 06th July 2025 - Lucky!
+
+Today I was revisiting the zmk docs thinking I might find something cool that
+I'd want to add to my keyboard! Well I didn't find something really cool but
+something that I might need later on -> USB support! Commenting out that for
+now since I have no use of it rn.
+
+Anyway while I was at it, I FOUND A SERIOUS PROBLEM!!! In my ZMK config repo,
+inside Kconfig.defconfig file I had the checks for `SHIELD_MY_KEYBOARD_LEFT`
+instead of `SHIELD_SPLITWAVE_LEFT`!! Now it all makes sense!!! Why both the
+keyboard firmware files had the same size! I hope I haven't left anything like
+this anywhere in my repo! That'd be a nightmare to find out!
+
+The commit is [here](https://github.com/AnkushRoy-code/zmk-config-splitwave/commit/0d09642213413f79d951a8247fc74aa19b9c590b#r161541550)
+
+This also means none of my previous firmwares will work at all!! this stuff is
+scary! Just to be safe I am reviewing every single file of the zmk-config
+repo!!
+
+And Bam! Not even 10mins I found another problem! I forgot to change the names
+of my keyboard!!
+
+**Total Time 1hrs**
+
+*Total Time Till Now: 56hrs*
