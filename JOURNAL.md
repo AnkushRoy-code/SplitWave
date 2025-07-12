@@ -766,41 +766,43 @@ days. I didn't contact them for all this time because they usually take 3 days
 to deliver. Today I called them asking about the status of my package and when
 it will reach me.
 
-"Hello, am I speaking to <address> Post Office?"
-
-"Yes"
-
-"I wanted to know when my package will come to me"
-
-"Okay I will check it for you, please send the tracking link to me in this number"
-
-"Okay"
+> "Hello, am I speaking to < address > Post Office?"
+> 
+> "Yes"
+> 
+> "I wanted to know when my package will come to me"
+> 
+> "Okay I will check it for you, please send the tracking link to me in this number"
+> 
+> "Okay"
 
 I sent.. and 10mins passed. I called again.
 
-"Hello, I was asking if everything is alr? I called a while back. I am Ankush."
+> "Hello, I was asking if everything is alr? I called a while back. I am Ankush."
+> 
+> "Hello, we have a problem... The package has been sent to <City's 2nd Biggest
+> Post Office>, because the package didn't have any mobile number to contact you.
+> If the package has been dispatched from there you will never be able to get it
+> anymore."
+> 
+> "Huh...? WHAT? There's nothing I can do?"
+> 
+> "Unfortunately no, we just yesterday sent it. Only if you had called a day
+> earlier. We can just hope that they haven't dispatched it to return to the
+> sender."
+> 
+> "okay..."
 
-"Hello, we have a problem... The package has been sent to <City's 2nd Biggest
-Post Office>, because the package didn't have any mobile number to contact you.
-If the package has been dispatched from there you will never be able to get it
-anymore."
-
-"Huh...? WHAT? There's nothing I can do?"
-
-"Unfortunately no, we just yesterday sent it. Only if you had called a day
-earlier. We can just hope that they haven't dispatched it to return to the
-sender."
-
-"okay..." I said dejected as anything.
+I was dejected as anything.
 
 I waited scratching my head and reconsidering my life choices..... thinking if
 it is karma.
 
 They called after like an hour.
 
-"Hello, we have good news! The package hasn't been dispatched yet. I called
-them and should arrive here after 5-10mins. You can come here and recieve it at
-any time now"
+> "Hello, we have good news! The package hasn't been dispatched yet. I called
+> them and should arrive here after 5-10mins. You can come here and recieve it at
+> any time now"
 
 I talked to them some stuff and hung up. I was sooooooooooooooooooooooooo happy
 I couldn't express it. I took my cycle and cycled 4km in 15mins! I never cycle
@@ -832,7 +834,7 @@ Also did I mention? NO CUSTOMS HERE TOO!!!
 #### tldr;
 
 My pkg was about to be returned to the sender. I got saved by a small margin.
-It arrived. I flashed my .utf file. It worked :) I happi
+It arrived (NO CUSTOMS!!). I flashed my .utf file. It worked :) I happi
 
 **Total Time 0hrs**
 
