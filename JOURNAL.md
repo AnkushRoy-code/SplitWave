@@ -808,6 +808,8 @@ I talked to them some stuff and hung up. I was sooooooooooooooooooooooooo happy
 I couldn't express it. I took my cycle and cycled 4km in 15mins! I never cycle
 this fast. Not in the busy streets of India.
 
+~Also forgot to mention I almost got under a truck 💀~
+
 I reached there and got my package with a big smile, thanked them. Had a
 wonderful conversation with them and left!
 
@@ -840,3 +842,28 @@ It arrived (NO CUSTOMS!!). I flashed my .utf file. It worked :) I happi
 
 *Total Time Till Now: 56hrs*
 
+## 16th July 2025 - Fun Yet Again!!!
+
+Today after like 20 days my Amazon soldering kit arrived! I was soo happy! It
+works good, and included everything it promised except the sponge. But I was
+gravely disappointed by the quantity of stuff like soldering wire, wick and
+flux. Don't know if they'll last the even left half of the keyboard. Searching
+for flux-core soldering wire (50gm) in Indian stores.
+
+Got some good deals but dunno about it yet. Will consult slack people for
+wisdom.
+
+Also to try the iron. I soldered my broken earphone. It didn't take much solder
+or flux. But works like new now. Doesn't look new tho. I did do a bad job at
+soldering I'd say.
+
+No time was spent towards actual development so not adding time. Still all the
+exploring took like less than an hour. But I was so mesmerised with it. I spent
+like 3hrs messing with all the stuff that arrived.
+
+I am free on friday. Will start soldering my left half then. Also I will get an
+idea about how much solder I will need.
+
+**Total Time Taken: 0hrs**
+
+*Total Time Till Now: 56hrs*
