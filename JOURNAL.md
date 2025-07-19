@@ -5,7 +5,7 @@ description: "A Split Ergonomic Keyboard"
 created_at: "2025-05-25"
 ---
 
-# Total Time: 56Hrs
+# Total Time: 59Hrs
 
 ## 25th May 2025 - Research
 
@@ -867,3 +867,39 @@ idea about how much solder I will need.
 **Total Time Taken: 0hrs**
 
 *Total Time Till Now: 56hrs*
+
+## 17th July 2025 - Working IRL
+
+Today I soldered 3 switched completely on one of my 5 pcbs, the one which was
+in the worst shape. It worked great! I am really proud of how well it turned
+out! Later I also tried bridging the jumper pads of my PCB. It worked great but
+I think I can do better. 
+
+I leant two things today.
+
+1. My soldering wire is rosin core.
+2. Flux is not water soluble (Someone in the intrenet said I can remove it with water 😭😭)
+
+**Total Time Taken: 1hrs**
+
+*Total Time Till Now: 57hrs*
+
+## 18th July 2025 - Working IRL
+
+Today at 11PM I set out to solder all my diodes to the left half. I was really
+excited to work on it. But this time it was not going as good as it did
+yesterday. IDK why.
+
+I somehow managed to solder all the 22 diodes in my left half. Not a lot of
+solder was wasted. I also checked all the diode's current flow thingy with my
+multimeter. And all of them were correct.
+
+Today too I leant two things:
+
+1. Soldering wick get crazy hot. Don't touch them (I burnt my hand a lil)
+2. Flux is not useless.
+
+**Total Time Taken: 2hrs**
+
+*Total Time Till Now: 59hrs*
+
