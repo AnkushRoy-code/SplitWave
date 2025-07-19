@@ -5,7 +5,7 @@ description: "A Split Ergonomic Keyboard"
 created_at: "2025-05-25"
 ---
 
-# Total Time: 59Hrs
+# Total Time: 60Hrs
 
 ## 25th May 2025 - Research
 
@@ -905,6 +905,9 @@ I leant two things today.
 
 ## 18th July 2025 - Working IRL
 
+So after a lot of things. A LOT OF PLANNING. A lot of RESEARCH. AND AFTER A LOT
+OF SHIT. Almost after 2 months. I started to work on my keeb.
+
 Today at 11PM I set out to solder all my diodes to the left half. I was really
 excited to work on it. But this time it was not going as good as it did
 yesterday. IDK why.
@@ -940,3 +943,32 @@ Today too I leant two things:
 **Total Time Taken: 2hrs**
 
 *Total Time Till Now: 59hrs*
+
+## 19th July 2025 - Finally ACTUALLY working on the Keeb!!!!
+
+I today Soldered the jumper pads of my pcb. Soldered the MCU. Tested it. It
+seems to work. I mean I see blue and red lights :)
+
+Next I soldered some of the hotswap sockets. And tried if the keys are working.
+THEY WERE WORKING. But I have some software problems!
+
+1. Seems like having Colemak_mod_dh layout is not a good idea. My OS itself
+   converts the normal keystrokes to Colemak_mod_dh from qwerty once. So doing
+   it is not good. Also this way others can use my keyboard!
+2. The 1st and 3rd rows are swapped. Easy fix.
+3. The outer-pinky and pinky columns were also swapped. Easier fix. 
+
+Now I plan to solder all the other parts like reset/power/jst jack. And then I
+will solder all the othre hotswap sockets. If they suffice. I don't have my
+hopes up. There is not a lot left. I will continue this at night after dinner.
+
+Now I am done with the left half completely. And I have some solder left too!
+But I pretty much messed up my power slider. I mistakenly joined two of the
+pins. And it was HARD TO REMOVE THE BRIDGE!!! I finally did it. I am so happy I
+was able to do it, I was about to cry 😭
+
+Now it's done and I am just waiting on more solder/case/screws.
+
+**Total Time Taken: 1hrs**
+
+*Total Time Till Now: 60hrs*

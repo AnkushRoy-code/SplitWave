@@ -15,4 +15,5 @@ Index,Name,Model,Quantity,Shop,Price,Accumulated Price,Shipping + Tax,Total Pric
 ,,,,Grand Total:,$50.99,$122.49,$29.76,$152.25,$152.25,$147.06,-$5.00,
 ,,,,,,,,,,,,
 ,,I will pay for them,,,,,,,,,,
-14,Screws,Inserts(M2X3) and Round Head(M2X4/10),20,OnlyScrews,$2.00,$2.00,$2.00,$4.00,$4.00,,,https://onlyscrews.in
+14,Screws,Inserts(M2X3) and Round Head(M2X4/10),20,OnlyScrews,$1.70,$1.70,$0.00,$1.70,$1.70,,,https://onlyscrews.in
+15,Solder Wire,Flux core,1 (50gm),QuartzComponents,$2.00,$2.00,$0.00,$2.00,$2.00,,,https://quartzcomponents.com/products/flux-core-solder-wire-18swg-50gms?_pos=2&_sid=b39a98df8&_ss=r
