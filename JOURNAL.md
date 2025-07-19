@@ -808,7 +808,7 @@ I talked to them some stuff and hung up. I was sooooooooooooooooooooooooo happy
 I couldn't express it. I took my cycle and cycled 4km in 15mins! I never cycle
 this fast. Not in the busy streets of India.
 
-~Also forgot to mention I almost got under a truck 💀~
+'Also forgot to mention I almost got under a truck 💀'
 
 I reached there and got my package with a big smile, thanked them. Had a
 wonderful conversation with them and left!
@@ -880,6 +880,25 @@ I leant two things today.
 1. My soldering wire is rosin core.
 2. Flux is not water soluble (Someone in the intrenet said I can remove it with water 😭😭)
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/489d11e4-5bcd-4cc8-a63d-9f6ce1780d60" alt="image of a single diode on my hand" width="300"/><br>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ee506a73-5671-49ee-b9e9-045bdf3f2141" alt="image of a single diode soldered in the pcb" width="300"/><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/a4efb0b6-3a59-4d0d-8dac-f47b69601768" alt="image of bridged pads of my pcb" width="300"/><br>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f81ba281-ba06-4478-b47a-c083e415373f" alt="image of the 3 switches soldered" width="300"/><br>
+    </td>
+  </tr>
+</table>
+
 **Total Time Taken: 1hrs**
 
 *Total Time Till Now: 57hrs*
@@ -899,7 +918,25 @@ Today too I leant two things:
 1. Soldering wick get crazy hot. Don't touch them (I burnt my hand a lil)
 2. Flux is not useless.
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/39d8b58f-b20b-43c5-8851-a0e805035a53" alt="image of my soldered diodes in left half - 1" width="300"/><br>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/24a38f81-c3b5-48aa-921b-9200b4b02637" alt="image of my soldered diodes in left half - 2" width="300"/><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/fcd55f50-88bf-44c7-9e99-32a088f204f0" alt="image of my soldered diodes in left half - 3" width="300"/><br>
+    </td>
+        <td align="center">
+      <img src="https://github.com/user-attachments/assets/281f881d-69c6-46fe-9690-f7f3fd1ab762" alt="image of my soldered diodes in left half - 4" width="300"/><br>
+    </td>
+  </tr>
+</table>
+
 **Total Time Taken: 2hrs**
 
 *Total Time Till Now: 59hrs*
-
