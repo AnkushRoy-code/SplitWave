@@ -5,7 +5,7 @@ description: "A Split Ergonomic Keyboard"
 created_at: "2025-05-25"
 ---
 
-# Total Time: 60Hrs
+# Total Time: 64Hrs
 
 ## 25th May 2025 - Research
 
@@ -972,3 +972,50 @@ Now it's done and I am just waiting on more solder/case/screws.
 **Total Time Taken: 1hrs**
 
 *Total Time Till Now: 60hrs*
+
+## 20th July 2025 - Stress & Pain
+
+I had a problem yesterday that was seemed too easy to fix, so much so that I
+didn't even mention it in my last journal - My thumb cluster (the bottom most
+row of my keybarod) is not working/ has never worked ever. I just thought that
+it'd be a easy fix. You are gonna read how easy it was.
+
+Today morning I set up to see why the bottom row isn't working. I checked
+connections. Connections good. I checked ZMK docs. I matched the gpio pins with
+the schematic of my MCU. I matched the PCB. All of them were correct. Lastly I
+confirmed my problem to be a dead pin on my MCU.
+
+I requested for help in many discord. Searched google. Read ZMK docs.
+Nobody/nothing helped. Lastly I someone from Hackclub messaged me in Slack
+saying my GPIO pin probably isn't working and is acting as ground. I somehow
+have to manage to re-route (using jumper wires) the trace and isolate it from
+the previous pin and use another spare pin. I was shocked. I do not have any
+jumper wires. And that meant I have to dig into the PCB. Break open the copper
+layer. Split and solder the wire.
+
+I asked my friend for jumper wires. He said he has very few but will lend me
+one. I have to wait till Monday to get from him.
+
+Then I remembered. I ordered JST cables from sunrom. And the minimum was like
+10. SO BY DEFAULT I HAVE 20 JUMPER WIRES!! I broke open one wire and got to 
+working. I first tested my concept on a spare pcb (the same one where I
+soldered my first 3 diodes)
+
+It worked flawlessly in my spare pcb. But when I got to do the main one it
+wasn't working. I get to clumsy. Took a deep breath and did it correctly the
+next time and it worked.
+
+I soldered the wire to the pcb and handwire the other end to the MCU  and
+tried. It didn't work. I thought it was because of connectivity issue. So I
+soldered it. It didn't work either.
+
+I spent a lot of time figuring out what was wrong. I finally did. Fixed it. And
+it was working!!
+
+I cannot stretch enough how stressful today was! I again thought my whole
+project was going downfall again. But now I have a big smile writing today's
+whole journal with my left keyboard and right laptop keys :)
+
+**Total Time Taken: 4hrs**
+
+*Total Time Till Now: 64hrs*
