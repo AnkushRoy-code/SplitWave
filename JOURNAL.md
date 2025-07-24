@@ -5,7 +5,7 @@ description: "A Split Ergonomic Keyboard"
 created_at: "2025-05-25"
 ---
 
-# Total Time: 64Hrs
+# Total Time: 66Hrs
 
 ## 25th May 2025 - Research
 
@@ -1019,3 +1019,30 @@ whole journal with my left keyboard and right laptop keys :)
 **Total Time Taken: 4hrs**
 
 *Total Time Till Now: 64hrs*
+
+## 24th July 2025 - Casify
+
+So, my case is really cool! But it has a problem, it suffers from correctness.
+Yes exactly! My case is too perfect. And in 3D-Printing world that is called
+skill issue. My pcb doesn't fit that good without some troubles. And getting it
+out is another hurdel.
+
+So since I had to tolerances I just planned to sand it down. Then I remember
+that I have a rotatory tool. Why not use that? I got the rotatory tool out.
+Made my setup and vrrooom, good as new. But I had no real experience working
+with it. And it's hard to make something good with rotatory tool. All my last
+attempts were near death experiences. Sooo.... yeah. 
+
+But I didn't give in. I pushed through and tried to sand one spare (The one in
+a very bad shape) case. AND IT DIDN"T WORK OUT!! It clogged in a place and I
+made it worse than what it originally was.
+
+So I planned on hand-sanding it. And that is what I did. I cut two sand roll in
+my rotatory tool and got it over with. My hands hurt and I am droppin off.
+
+It fits good now. Could've done a better job if I had the good sand-paper but
+I'll take it.
+
+**Total Time Taken: 2hrs**
+
+*Total Time Till Now: 66hrs*
