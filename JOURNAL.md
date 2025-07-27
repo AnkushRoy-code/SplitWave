@@ -1082,7 +1082,10 @@ I'll take it.
 
 Also now I am done with the title of my new magazine. Followed the tutorial at https://anchor.hackclub.com
 
-![Magazine Title Image](https://github.com/user-attachments/assets/8bc64bdf-c203-4518-820f-db30cce1d49e)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8bc64bdf-c203-4518-820f-db30cce1d49e" alt="Magazine Title Image" /><br>
+  <b>Magazine Title Image!!!</b>
+</p>
 
 **Total Time Taken: 4hrs**
 
@@ -1101,6 +1104,11 @@ a hard job to do it.
 Also since I do not want to open the case once I've committed to it, I have
 attatched the battery now! I was freaking out at first! I wasn't working, but
 after a long time I found out that I forgot to turn on the slider switch xD
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/db74a35c-07f6-465b-a057-c6594b43a0ba" alt="THe left build" /><br>
+  <b>Left Half IRL!!!</b>
+</p>
 
 **Total Time Taken: 1hrs**
 
