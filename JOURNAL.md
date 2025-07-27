@@ -5,7 +5,7 @@ description: "A Split Ergonomic Keyboard"
 created_at: "2025-05-25"
 ---
 
-# Total Time: 66Hrs
+# Total Time: 68Hrs
 
 ## 25th May 2025 - Research
 
@@ -1043,6 +1043,22 @@ my rotatory tool and got it over with. My hands hurt and I am droppin off.
 It fits good now. Could've done a better job if I had the good sand-paper but
 I'll take it.
 
-**Total Time Taken: 2hrs**
+Also now I am done with the title of my new magazine. Followed the tutorial at https://anchor.hackclub.com
 
-*Total Time Till Now: 66hrs*
+**Total Time Taken: 4hrs**
+
+*Total Time Till Now: 68hrs*
+
+## 24th July 2025 - Left Build Complete
+
+So today my screws arrived and I did what I was supposed to do, heat the
+threaded inserts and shove them inside the holes made for them. I failed to do
+all of them. Not a single one worked as expected. I am a failure 😭. I somehow
+managed to screw it up. I don't think I'd need the screws anyway, since the
+case was so tight. I had to put a lot of force to get the pcb inside the case
+in the first place. And I tried to pry open the PCB to check some stuff. It was
+a hard job to do it.
+
+**Total Time Taken: 0hrs**
+
+*Total Time Till Now: 68hrs*
