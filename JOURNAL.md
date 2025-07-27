@@ -5,7 +5,7 @@ description: "A Split Ergonomic Keyboard"
 created_at: "2025-05-25"
 ---
 
-# Total Time: 68Hrs
+# Total Time: 69Hrs
 
 ## 25th May 2025 - Research
 
@@ -1016,6 +1016,19 @@ I cannot stretch enough how stressful today was! I again thought my whole
 project was going downfall again. But now I have a big smile writing today's
 whole journal with my left keyboard and right laptop keys :)
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f396e0ca-9445-435d-81e8-48fca63cac72" alt="Image of me using a jumper wire to make new connection" width="300"/><br>
+      <b>Image of me using a jumper wire to make new connection</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/3da53b8a-d1cc-44a1-8283-37b7641f37ed" alt="Image of a spare PCB with bare open trace" width="300"/><br>
+      <b>Image of a spare PCB with bare open trace</b>
+    </td>
+  </tr>
+</table>
+
 **Total Time Taken: 4hrs**
 
 *Total Time Till Now: 64hrs*
@@ -1037,6 +1050,30 @@ But I didn't give in. I pushed through and tried to sand one spare (The one in
 a very bad shape) case. AND IT DIDN"T WORK OUT!! It clogged in a place and I
 made it worse than what it originally was.
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ab979c4c-7c82-4066-9046-6377cc225739" alt="Image Me messing up with the rotatory tool" width="300"/><br>
+      <b>Me messing up with the rotatory tool</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/2abbea84-9bf0-45cf-8c32-c633d705e9ab" alt="Image Me messing up with the rotatory tool - are anyone even reading this? If you are please contact me somehow. I will really be amazed to know how you use my much hard worked image alternative texts" width="300"/><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/16f39289-90d7-48d7-9335-b1bc678be421" alt="Image of the messed up case" width="300"/><br>
+      <b>Messed up case</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/30c62b5b-a3c7-4b80-9092-66e78cdf73d2" alt="Image of the messed up case - 2" width="300"/><br>
+    </td>
+  </tr>
+</table>
+
+So... about the "messed" up case. I didn't do it. It came like this. I guess
+that is why Arnav sent 2 of the same (left) case.
+
 So I planned on hand-sanding it. And that is what I did. I cut two sand roll in
 my rotatory tool and got it over with. My hands hurt and I am droppin off.
 
@@ -1045,11 +1082,13 @@ I'll take it.
 
 Also now I am done with the title of my new magazine. Followed the tutorial at https://anchor.hackclub.com
 
+![Magazine Title Image](https://github.com/user-attachments/assets/8bc64bdf-c203-4518-820f-db30cce1d49e)
+
 **Total Time Taken: 4hrs**
 
 *Total Time Till Now: 68hrs*
 
-## 24th July 2025 - Left Build Complete
+## 25th July 2025 - Left Build Complete
 
 So today my screws arrived and I did what I was supposed to do, heat the
 threaded inserts and shove them inside the holes made for them. I failed to do
@@ -1059,6 +1098,10 @@ case was so tight. I had to put a lot of force to get the pcb inside the case
 in the first place. And I tried to pry open the PCB to check some stuff. It was
 a hard job to do it.
 
-**Total Time Taken: 0hrs**
+Also since I do not want to open the case once I've committed to it, I have
+attatched the battery now! I was freaking out at first! I wasn't working, but
+after a long time I found out that I forgot to turn on the slider switch xD
 
-*Total Time Till Now: 68hrs*
+**Total Time Taken: 1hrs**
+
+*Total Time Till Now: 69hrs*
