@@ -5,7 +5,7 @@ description: "A Split Ergonomic Keyboard"
 created_at: "2025-05-25"
 ---
 
-# Total Time: 69Hrs
+# Total Time: 80Hrs
 
 ## 25th May 2025 - Research
 
@@ -1120,6 +1120,8 @@ Okay I locked in I was relly busy with procastinatin up until now and now I am
 going to complete my magazine. I do not know where to start. I am doing
 something and it doesn't look good *at all*
 
+<img width="374" height="530" alt="2025-07-28_18-59" src="https://github.com/user-attachments/assets/4b269308-495f-4367-84b8-c0b7c3f1fc35" />
+
 **Total Time Taken: 1hrs**
 
 *Total Time Till Now: 70hrs*
@@ -1128,6 +1130,11 @@ something and it doesn't look good *at all*
 
 I went over some colours in coolors.co <- really useful website!! I made few
 drafts with different colours. It looks good. But something doesn't feel right.
+
+<img width="310" height="435" alt="2025-07-29_21-50" src="https://github.com/user-attachments/assets/ffaca740-93df-4594-ba58-c3c93a9b1b5e" />
+<img width="312" height="435" alt="2025-07-29_21-47" src="https://github.com/user-attachments/assets/b247e819-154e-426b-aa47-bb0ccce6c29c" />
+<img width="315" height="436" alt="2025-07-29_21-46" src="https://github.com/user-attachments/assets/2a5a4453-8700-4978-abf3-f34bbf0e8668" />
+<img width="376" height="529" alt="2025-07-29_21-37" src="https://github.com/user-attachments/assets/25ef87e8-f0c7-455e-b0ea-652149455268" />
 
 I made some minute changes and asked Acon for suggestions and she said that the
 design doesn't suite the I asked Acon for suggestions and she said that the
@@ -1139,6 +1146,10 @@ I worked for some time and made something that might do the work I mixed 3
 different fonts to make the Title this time. It's simple yet cool imo!
 Plus I improved on the magazine aligned the stuff using some maths. Nothing
 much tbh. It's alr rn
+
+<img width="373" height="518" alt="2025-07-31_00-14" src="https://github.com/user-attachments/assets/e8095db0-5b65-4d11-b091-66ec161177dc" />
+<img width="621" height="543" alt="2025-07-30_12-25" src="https://github.com/user-attachments/assets/b2db7e46-4c21-406c-a5e5-3a686a3bf747" />
+<img width="666" height="123" alt="2025-07-30_15-42" src="https://github.com/user-attachments/assets/a1e508bc-6ad6-4f95-a46b-253a99023c3f" />
 
 **Total Time Taken: 3hrs**
 
@@ -1208,6 +1219,9 @@ anyway :3
 Now it's features. Add more features. I added a feature to show the battery
 info of *both* the keebs and ZMK-studio support to change the keymap on the
 run.
+<img width="866" height="347" alt="2025-08-03_11-53" src="https://github.com/user-attachments/assets/a0d65c69-f34f-4cde-9063-949b211f528e" />
+<img width="615" height="302" alt="2025-08-02_23-15" src="https://github.com/user-attachments/assets/c072c1fa-8599-4fab-964d-a2462a299742" />
+<img width="1353" height="727" alt="2025-08-02_00-04" src="https://github.com/user-attachments/assets/70da6de2-bfe6-4db4-9aa1-9210224d75b6" />
 
 **Total Time Taken: 1hrs**
 
@@ -1232,6 +1246,10 @@ missed the deadline, why does it even matter now.
 I am doing it now just because it is really fun.
 
 Tbh I think it came out pretty good ngl.
+
+<img width="1752" height="2452" alt="SplitWave" src="https://github.com/user-attachments/assets/07008d36-7f33-41af-b242-015a3b02b530" />
+<img width="1203" height="402" alt="monkeytype-result-2025-08-08T06-51-30-448Z" src="https://github.com/user-attachments/assets/4e630abe-df27-46ef-a155-f2043ffccad2" />
+<img width="1203" height="402" alt="monkeytype-result-2025-08-03T15-59-19-036Z" src="https://github.com/user-attachments/assets/09637cc8-2ddf-4c98-b547-28a157c8f05b" />
 
 **Total Time Taken: 1hrs**
 
