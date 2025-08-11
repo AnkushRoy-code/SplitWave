@@ -652,11 +652,11 @@ the suggestions of @Varun G, @rowyn and @acon!
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/473b1c3f-8a0b-47e2-906a-f42fe871aaa2" alt="image of my magazine that I submitted" width="300"/><br>
+      <img src="https://github.com/user-attachments/assets/473b1c3f-8a0b-47e2-906a-f42fe871aaa2" alt="image of my magazine that I submitted" width="500"/><br>
       <b>The one I submitted</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/3b10c55b-4644-4d63-99a2-277ace9eb3c4" alt="Left & Right Cases Bottom View" width="300"/><br>
+      <img src="https://github.com/user-attachments/assets/3b10c55b-4644-4d63-99a2-277ace9eb3c4" alt="Left & Right Cases Bottom View" width="500"/><br>
       <b>The Final Magazine that is staying there<br>It has correct colours</b>
     </td>
   </tr>
@@ -701,7 +701,7 @@ Guwahati! It will reach my state from there and it'll be really fast(I think)
 
 *Total Time Till Now: 55hrs*
 
-## 03th July 2025 - The Fun I had
+## 03rd July 2025 - The Fun I had
 
 Today The Typeractive stuff arrived. The PO guy called me and said he will
 deliver it today and hung up. I called him again in anticipation asking him how
@@ -719,10 +719,10 @@ EXPLODED TODAY.
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/20d46e27-802f-49ef-b406-9bf3b2a5c958" alt="image of my magazine that I submitted" width="300"/><br>
+      <img src="https://github.com/user-attachments/assets/20d46e27-802f-49ef-b406-9bf3b2a5c958" alt="image of my magazine that I submitted" width="500"/><br>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/f2d91107-af0e-4df3-b889-51ce0fa02e7a" alt="Left & Right Cases Bottom View" width="300"/><br>
+      <img src="https://github.com/user-attachments/assets/f2d91107-af0e-4df3-b889-51ce0fa02e7a" alt="Left & Right Cases Bottom View" width="500"/><br>
     </td>
   </tr>
 </table>
@@ -1177,11 +1177,11 @@ much tbh. It's alr rn
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/e8095db0-5b65-4d11-b091-66ec161177dc" alt="splitwave mag page" width="300"/><br>
+      <img src="https://github.com/user-attachments/assets/e8095db0-5b65-4d11-b091-66ec161177dc" alt="splitwave mag page" width="500"/><br>
       <b>Magazine page update today</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/b2db7e46-4c21-406c-a5e5-3a686a3bf747" alt="making of the logo new" width="300"/><br>
+      <img src="https://github.com/user-attachments/assets/b2db7e46-4c21-406c-a5e5-3a686a3bf747" alt="making of the logo new" width="500"/><br>
       <b>Making of the new logo</b>
     </td>
   </tr>
