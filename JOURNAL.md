@@ -1113,3 +1113,165 @@ after a long time I found out that I forgot to turn on the slider switch xD
 **Total Time Taken: 1hrs**
 
 *Total Time Till Now: 69hrs*
+ 
+## 28th July 2025 - Magazine V2
+
+Okay I locked in I was relly busy with procastinatin up until now and now I am
+going to complete my magazine. I do not know where to start. I am doing
+something and it doesn't look good *at all*
+
+**Total Time Taken: 1hrs**
+
+*Total Time Till Now: 70hrs*
+
+## 29th July 2025 - Magazine V2
+
+I went over some colours in coolors.co <- really useful website!! I made few
+drafts with different colours. It looks good. But something doesn't feel right.
+
+I made some minute changes and asked Acon for suggestions and she said that the
+design doesn't suite the I asked Acon for suggestions and she said that the
+design doesn't suite the name "SplitWave" I couldn't agree more. The style was
+really too soft. But I was unable to understand what was going wrong. Thanks to
+Acon for the suggestion. I will redo the magazine again now.
+
+I worked for some time and made something that might do the work I mixed 3
+different fonts to make the Title this time. It's simple yet cool imo!
+Plus I improved on the magazine aligned the stuff using some maths. Nothing
+much tbh. It's alr rn
+
+**Total Time Taken: 3hrs**
+
+*Total Time Till Now: 73hrs*
+
+## 30th July 2025 - Cooked really badly.
+
+I woke up and booted into my laptop. Something seems wrong. My password isnt'
+working. wait. I can't type. How can this happen!??!? I just worked using it
+yesterday!! Oh no. It doesn't work at all ;( Fortunately splitwave works but
+only the left half.
+
+I brought out my last external keeb. It works for like 10s and then doesn't
+work anymore for the next few minutes. I plugged it in. I typed my pswd. 
+
+It went out (keeb).
+
+I tried again after some time. This time I opened a terminal and installed an
+application called "onboard" well well well that name rings a bell xd. I
+researched about onboard during the keeb was out.
+
+Okay the keeb went out again but this time I had onboard. I worked with it. And
+it was okayish ig never comparable to my keeb but works ig.
+
+I need to finish keyboard really badly now. I can't live like this. I will do
+it today after tutions and school.
+
+Okay sooo. Life is not going my way at all!! I was done soldering all the parts
+of my keeb rn! All the diodes and hotswaps! The new solder is a bit tricky to
+work with. It came in yesterday. It is a bit thicker and needs a little bit
+more temp than normal to melt. I somehow made it work. Soldered it all.
+attatched the keeys to the pcb trying to see if it works or not in my lappy.
+Well... it did work. But my soldering iron didn't. It was not like heating
+less. It was not heating at all!! My work will be over here. I can't use the
+soldering iron for my heat inserts. Fortunately only heated inerts were left.
+And since my case was so tight I don't think it will fly off if I do not use
+the screws 💀. Anyway I will try to fix it anyhow tomorrow because I messed up
+with one of my diodes. I made one opposite orientation. And one of the solder
+joints was dry and came off. I have to do that too. So I will have to fix my
+soldering iron anyhow.
+
+**Total Time Taken: 2hrs**
+
+*Total Time Till Now: 75hrs*
+
+## 31th July 2025 - Fix the iron!
+
+Okay. I set up to fix my iron today. Watched a tutorial of what can go wrong
+and what to check for fixing. Using my multimeter I quickly found out that one
+of the wires burnt off so I was unable to use it. Since I have unlimited supply
+of jumper wires I stripped one off and used it's conductor as replacement of
+the old wire. It worked. But stopped working again. I did it again. Hot
+Glue-gunned it down (because I didn't have iron to solder the joint) and then
+it worked! I fixed my iron. Fixed yesterday's issuse. Put the inserts. Tightned
+the screws. And my left half was done. 
+
+Okay my build is complete now, I should put out the demo rn. I won't get
+anything but I want to tick all the boxes that highway offers so I will do it
+anyway :3
+
+**Total Time Taken: 2hrs**
+
+*Total Time Till Now: 77hrs*
+
+## 1st August 2025 - The firmware
+
+Now it's features. Add more features. I added a feature to show the battery
+info of *both* the keebs and ZMK-studio support to change the keymap on the
+run.
+
+**Total Time Taken: 1hrs**
+
+*Total Time Till Now: 78hrs*
+
+## 3rd August 2025 - The firmware
+
+Today I fixed the Colemak_mod_dh layout swithching, the problem was that it was
+the 4th layer and the fn and num layer above it were taking precedence, so
+changin back from colemak was hard.
+
+**Total Time Taken: 1hrs**
+
+*Total Time Till Now: 79hrs*
+
+## 4th August 2025 - Magazine 😭
+
+Okay, now it's just skill issue. I procastinated it a lot. Worked on the
+magazine a little and added some cool lightnings. Nothing much. I have already
+missed the deadline, why does it even matter now.
+
+I am doing it now just because it is really fun.
+
+Tbh I think it came out pretty good ngl.
+
+**Total Time Taken: 1hrs**
+
+*Total Time Till Now: 80hrs*
+
+## 5th August 2025 - Magazine 😭
+
+I think I am done. Added a lot of stupid and randome stuff that made it look
+cool. Not the best page surely, but the most worked one page surely!! I think
+that this is really cool and I love it.
+
+I just hoped that I finished it before the deadline (31st July).
+
+## 6th August 2025 - Magazine 😭😭😭😭😭😭
+
+Okay, I got great news my page is up!! They extended the deadline and I never
+knew 😭, I was unable to add my page in the magazine figma file because of some
+stupid authenticatin, but someone else did it for me :)
+
+## 11th August 2025 - Journalling
+
+Okay, I had been really busy the past two weeks, I made the journalling of all
+the dates since 25th July. Will add the images a little later.
+
+Now that all this has come to an end. I will like to say that the past two
+months had been really momorable for me. The ups and downs. The struggle. The
+emotions. The hardwork.
+
+It was all worth it. It was all more than just an experience. It is something I
+will never forget. I think that journalling was something I really liked too. I
+think I will take this habit to my next projects on the way. I like doing it.
+Helps keep track of my progress and a fun thing I can look back upon.
+
+Also today is Acon's bday and I have to wish her!! I can't procastinate this
+out of today.
+
+In this event. I leant more than just hardware. I learnt tax, designing, fixing
+stuff growing with community. In this event I talked the most with the people
+too getting out there taking help, helping others and having fun with everyone.
+
+All of the journal (since 25th July) made with 🩷 using SplitWave.
+
+*Total Time Till Now: A lot, looking back...not so much*
