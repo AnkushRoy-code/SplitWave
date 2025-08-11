@@ -222,11 +222,11 @@ Other than that, making the cases is left. Then my keyboard will be done!
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/8f7c3e6d-9fb6-4b89-916e-0f97f048dc1e" alt="left pcb image" width="300"/><br>
+      <img src="https://github.com/user-attachments/assets/8f7c3e6d-9fb6-4b89-916e-0f97f048dc1e" alt="left pcb image" width="500"/><br>
       <b>Left PCB</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/f2c8997a-a89c-4d04-90a5-9d9c01201c12" alt="right pcb image" width="300"/><br>
+      <img src="https://github.com/user-attachments/assets/f2c8997a-a89c-4d04-90a5-9d9c01201c12" alt="right pcb image" width="500"/><br>
       <b>Right PCB</b>
     </td>
   </tr>
@@ -411,11 +411,11 @@ The Images of the Silkscreen closer up:
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/177b656c-70c9-4e8e-9a16-660615c9aa72" alt="front silkscreen image" width="300"/><br>
+      <img src="https://github.com/user-attachments/assets/177b656c-70c9-4e8e-9a16-660615c9aa72" alt="front silkscreen image" width="500"/><br>
       <b>Front Silkscreen</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/6fd35721-c5e1-4f89-9ca6-705594ee9bad" alt="back silkscreen image" width="300"/><br>
+      <img src="https://github.com/user-attachments/assets/6fd35721-c5e1-4f89-9ca6-705594ee9bad" alt="back silkscreen image" width="500"/><br>
       <b>Back Silkscreen</b>
     </td>
   </tr>
@@ -446,11 +446,11 @@ Thank god I found them and fixed them. The updated cases are as follows:
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/88e6f073-60a9-4b97-a2fd-90541a3bef5b" alt="top case image" width="300"/><br>
+      <img src="https://github.com/user-attachments/assets/88e6f073-60a9-4b97-a2fd-90541a3bef5b" alt="top case image" width="500"/><br>
       <b>Top Case</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/c6cb2a46-811c-4869-953b-227548513e3d" alt="bottom case image" width="300"/><br>
+      <img src="https://github.com/user-attachments/assets/c6cb2a46-811c-4869-953b-227548513e3d" alt="bottom case image" width="500"/><br>
       <b>Bottom Case</b>
     </td>
   </tr>
@@ -570,15 +570,19 @@ Things I did:
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/5922e3d8-a2ad-4d5b-9a6f-f25777789903" alt="Left & Right Cases Top View" width="300"/><br>
+      <img src="https://github.com/user-attachments/assets/5922e3d8-a2ad-4d5b-9a6f-f25777789903" alt="Left & Right Cases Top View" width="1000"/><br>
       <b>Left & Right Cases Top View</b>
     </td>
+  </tr>
+  <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/cfb8c1d5-6765-4de8-899f-0eefc02ce3a5" alt="Left & Right Cases Bottom View" width="300"/><br>
+      <img src="https://github.com/user-attachments/assets/cfb8c1d5-6765-4de8-899f-0eefc02ce3a5" alt="Left & Right Cases Bottom View" width="1000"/><br>
       <b>Left & Right Cases Bottom View</b>
     </td>
+  </tr>
+  <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/c213c3f0-e9c0-4421-98d6-e422c4f2c255" alt="All Of Them Together" width="300"/><br>
+      <img src="https://github.com/user-attachments/assets/c213c3f0-e9c0-4421-98d6-e422c4f2c255" alt="All Of Them Together" width="1000"/><br>
       <b>All Of Them Together</b>
     </td>
   </tr>
@@ -718,13 +722,14 @@ EXPLODED TODAY.
       <img src="https://github.com/user-attachments/assets/20d46e27-802f-49ef-b406-9bf3b2a5c958" alt="image of my magazine that I submitted" width="300"/><br>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/7d9c54aa-2ed3-4fae-a877-7b18176d654b" alt="Left & Right Cases Bottom View" width="300"/><br>
-    </td>
-    <td align="center">
       <img src="https://github.com/user-attachments/assets/f2d91107-af0e-4df3-b889-51ce0fa02e7a" alt="Left & Right Cases Bottom View" width="300"/><br>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7d9c54aa-2ed3-4fae-a877-7b18176d654b" alt="Left & Right Cases Bottom View" /><br>
+</p>
 
 **Total Time 1hrs**
 Not adding today's time because it was not towards actual development.
@@ -883,18 +888,18 @@ I leant two things today.
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/489d11e4-5bcd-4cc8-a63d-9f6ce1780d60" alt="image of a single diode on my hand" width="300"/><br>
+      <img src="https://github.com/user-attachments/assets/489d11e4-5bcd-4cc8-a63d-9f6ce1780d60" alt="image of a single diode on my hand" width="500"/><br>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/ee506a73-5671-49ee-b9e9-045bdf3f2141" alt="image of a single diode soldered in the pcb" width="300"/><br>
+      <img src="https://github.com/user-attachments/assets/ee506a73-5671-49ee-b9e9-045bdf3f2141" alt="image of a single diode soldered in the pcb" width="500"/><br>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/a4efb0b6-3a59-4d0d-8dac-f47b69601768" alt="image of bridged pads of my pcb" width="300"/><br>
+      <img src="https://github.com/user-attachments/assets/a4efb0b6-3a59-4d0d-8dac-f47b69601768" alt="image of bridged pads of my pcb" width="500"/><br>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/f81ba281-ba06-4478-b47a-c083e415373f" alt="image of the 3 switches soldered" width="300"/><br>
+      <img src="https://github.com/user-attachments/assets/f81ba281-ba06-4478-b47a-c083e415373f" alt="image of the 3 switches soldered" width="500"/><br>
     </td>
   </tr>
 </table>
@@ -924,18 +929,18 @@ Today too I leant two things:
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/39d8b58f-b20b-43c5-8851-a0e805035a53" alt="image of my soldered diodes in left half - 1" width="300"/><br>
+      <img src="https://github.com/user-attachments/assets/39d8b58f-b20b-43c5-8851-a0e805035a53" alt="image of my soldered diodes in left half - 1" width="500"/><br>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/24a38f81-c3b5-48aa-921b-9200b4b02637" alt="image of my soldered diodes in left half - 2" width="300"/><br>
+      <img src="https://github.com/user-attachments/assets/24a38f81-c3b5-48aa-921b-9200b4b02637" alt="image of my soldered diodes in left half - 2" width="500"/><br>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/fcd55f50-88bf-44c7-9e99-32a088f204f0" alt="image of my soldered diodes in left half - 3" width="300"/><br>
+      <img src="https://github.com/user-attachments/assets/fcd55f50-88bf-44c7-9e99-32a088f204f0" alt="image of my soldered diodes in left half - 3" width="500"/><br>
     </td>
         <td align="center">
-      <img src="https://github.com/user-attachments/assets/281f881d-69c6-46fe-9690-f7f3fd1ab762" alt="image of my soldered diodes in left half - 4" width="300"/><br>
+      <img src="https://github.com/user-attachments/assets/281f881d-69c6-46fe-9690-f7f3fd1ab762" alt="image of my soldered diodes in left half - 4" width="500"/><br>
     </td>
   </tr>
 </table>
@@ -1019,11 +1024,11 @@ whole journal with my left keyboard and right laptop keys :)
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/f396e0ca-9445-435d-81e8-48fca63cac72" alt="Image of me using a jumper wire to make new connection" width="300"/><br>
+      <img src="https://github.com/user-attachments/assets/f396e0ca-9445-435d-81e8-48fca63cac72" alt="Image of me using a jumper wire to make new connection" width="500"/><br>
       <b>Image of me using a jumper wire to make new connection</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/3da53b8a-d1cc-44a1-8283-37b7641f37ed" alt="Image of a spare PCB with bare open trace" width="300"/><br>
+      <img src="https://github.com/user-attachments/assets/3da53b8a-d1cc-44a1-8283-37b7641f37ed" alt="Image of a spare PCB with bare open trace" width="500"/><br>
       <b>Image of a spare PCB with bare open trace</b>
     </td>
   </tr>
@@ -1053,20 +1058,20 @@ made it worse than what it originally was.
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/ab979c4c-7c82-4066-9046-6377cc225739" alt="Image Me messing up with the rotatory tool" width="300"/><br>
+      <img src="https://github.com/user-attachments/assets/ab979c4c-7c82-4066-9046-6377cc225739" alt="Image Me messing up with the rotatory tool" width="500"/><br>
       <b>Me messing up with the rotatory tool</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/2abbea84-9bf0-45cf-8c32-c633d705e9ab" alt="Image Me messing up with the rotatory tool - are anyone even reading this? If you are please contact me somehow. I will really be amazed to know how you use my much hard worked image alternative texts" width="300"/><br>
+      <img src="https://github.com/user-attachments/assets/2abbea84-9bf0-45cf-8c32-c633d705e9ab" alt="Image Me messing up with the rotatory tool - are anyone even reading this? If you are please contact me somehow. I will really be amazed to know how you use my much hard worked image alternative texts" width="500"/><br>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/16f39289-90d7-48d7-9335-b1bc678be421" alt="Image of the messed up case" width="300"/><br>
+      <img src="https://github.com/user-attachments/assets/16f39289-90d7-48d7-9335-b1bc678be421" alt="Image of the messed up case" width="500"/><br>
       <b>Messed up case</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/30c62b5b-a3c7-4b80-9092-66e78cdf73d2" alt="Image of the messed up case - 2" width="300"/><br>
+      <img src="https://github.com/user-attachments/assets/30c62b5b-a3c7-4b80-9092-66e78cdf73d2" alt="Image of the messed up case - 2" width="500"/><br>
     </td>
   </tr>
 </table>
@@ -1120,7 +1125,10 @@ Okay I locked in I was relly busy with procastinatin up until now and now I am
 going to complete my magazine. I do not know where to start. I am doing
 something and it doesn't look good *at all*
 
-<img width="374" height="530" alt="2025-07-28_18-59" src="https://github.com/user-attachments/assets/4b269308-495f-4367-84b8-c0b7c3f1fc35" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4b269308-495f-4367-84b8-c0b7c3f1fc35" alt="Magazine Image" /><br>
+  <b>Magazine</b>
+</p>
 
 **Total Time Taken: 1hrs**
 
@@ -1131,10 +1139,28 @@ something and it doesn't look good *at all*
 I went over some colours in coolors.co <- really useful website!! I made few
 drafts with different colours. It looks good. But something doesn't feel right.
 
-<img width="310" height="435" alt="2025-07-29_21-50" src="https://github.com/user-attachments/assets/ffaca740-93df-4594-ba58-c3c93a9b1b5e" />
-<img width="312" height="435" alt="2025-07-29_21-47" src="https://github.com/user-attachments/assets/b247e819-154e-426b-aa47-bb0ccce6c29c" />
-<img width="315" height="436" alt="2025-07-29_21-46" src="https://github.com/user-attachments/assets/2a5a4453-8700-4978-abf3-f34bbf0e8668" />
-<img width="376" height="529" alt="2025-07-29_21-37" src="https://github.com/user-attachments/assets/25ef87e8-f0c7-455e-b0ea-652149455268" />
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/25ef87e8-f0c7-455e-b0ea-652149455268" alt="draft 1 that was selected" width="500"/><br>
+      <b>Draft - 1(Selected!!)</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/b247e819-154e-426b-aa47-bb0ccce6c29c" alt="draft 2" width="500"/><br>
+      <b>Draft - 2</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/2a5a4453-8700-4978-abf3-f34bbf0e8668" alt="draft 3" width="500"/><br>
+      <b>Draft - 3</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ffaca740-93df-4594-ba58-c3c93a9b1b5e" alt="draft 4" width="500"/><br>
+      <b>Draft - 4</b>
+    </td>
+  </tr>
+</table>
 
 I made some minute changes and asked Acon for suggestions and she said that the
 design doesn't suite the I asked Acon for suggestions and she said that the
@@ -1147,9 +1173,24 @@ different fonts to make the Title this time. It's simple yet cool imo!
 Plus I improved on the magazine aligned the stuff using some maths. Nothing
 much tbh. It's alr rn
 
-<img width="373" height="518" alt="2025-07-31_00-14" src="https://github.com/user-attachments/assets/e8095db0-5b65-4d11-b091-66ec161177dc" />
-<img width="621" height="543" alt="2025-07-30_12-25" src="https://github.com/user-attachments/assets/b2db7e46-4c21-406c-a5e5-3a686a3bf747" />
-<img width="666" height="123" alt="2025-07-30_15-42" src="https://github.com/user-attachments/assets/a1e508bc-6ad6-4f95-a46b-253a99023c3f" />
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/e8095db0-5b65-4d11-b091-66ec161177dc" alt="splitwave mag page" width="300"/><br>
+      <b>Magazine page update today</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/b2db7e46-4c21-406c-a5e5-3a686a3bf747" alt="making of the logo new" width="300"/><br>
+      <b>Making of the new logo</b>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a1e508bc-6ad6-4f95-a46b-253a99023c3f" alt="me calculating a lot" /><br>
+  <b>using math to align a single polygon vertices</b>
+</p>
 
 **Total Time Taken: 3hrs**
 
@@ -1191,6 +1232,11 @@ with one of my diodes. I made one opposite orientation. And one of the solder
 joints was dry and came off. I have to do that too. So I will have to fix my
 soldering iron anyhow.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0a4ce4e6-b567-452b-b594-1144836974cb" alt="the new solder is shit" width="1000"/><br>
+  <b>Problems with the new solder</b>
+</p>
+
 **Total Time Taken: 2hrs**
 
 *Total Time Till Now: 75hrs*
@@ -1205,6 +1251,8 @@ the old wire. It worked. But stopped working again. I did it again. Hot
 Glue-gunned it down (because I didn't have iron to solder the joint) and then
 it worked! I fixed my iron. Fixed yesterday's issuse. Put the inserts. Tightned
 the screws. And my left half was done. 
+
+![WhatsApp Image 2025-08-11 at 9 35 42 PM](https://github.com/user-attachments/assets/f274c953-a904-477c-bddd-51a02a03ed1b)
 
 Okay my build is complete now, I should put out the demo rn. I won't get
 anything but I want to tick all the boxes that highway offers so I will do it
@@ -1289,6 +1337,8 @@ out of today.
 In this event. I leant more than just hardware. I learnt tax, designing, fixing
 stuff growing with community. In this event I talked the most with the people
 too getting out there taking help, helping others and having fun with everyone.
+
+![1754929061208](https://github.com/user-attachments/assets/5f3559f1-87c1-4691-9b5d-0af83aa73b6e)
 
 All of the journal (since 25th July) made with 🩷 using SplitWave.
 
