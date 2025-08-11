@@ -73,7 +73,16 @@ The cases are also hosted in printables.com [here](https://www.printables.com/mo
 The firmware used for SplitWave is [ZMK](https://zmk.dev) and the prebuilt firmware can be found in the actions page of [this](https://github.com/AnkushRoy-code/zmk-config-splitwave) repo that I made.
 
 ## Photos
-Placeholder for photos for when I am done with the keyboard.
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ddb8ca48-bec6-45c1-bd18-3047e059a321" alt="image of my keeb irl" width="300"/><br>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/708d8701-cea0-4e98-b7e1-161e12ed0784" alt="same as above" width="300"/><br>
+    </td>
+  </tr>
+</table>
 
 ## Credits
 [Hackclub](https://hackclub.com/) for giving me such an opportunity to work on my dream keyboard.
